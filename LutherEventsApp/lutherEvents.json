@@ -1,0 +1,4413 @@
+{
+  "VCALENDAR": [
+    {
+      "VERSION": "2.0",
+      "PRODID": "-//Reason 4.5//EN",
+      "X-WR-CALNAME;VALUE=TEXT": "Calendar of Events",
+      "X-WR-TIMEZONE": "America/Chicago",
+      "VEVENT": [
+        {
+          "UID": "20181203094735-842552@reason",
+          "SUMMARY": "Workshop: Using Google Sites for Eportfolios",
+          "DESCRIPTION": "In collaboration with ITS, the eportfolio pilot committee is offering this two-hour workshop for any faculty or staff member interested in learning more about how to use Google Sites and its capabilities for eportfolios. We will present some of the key benefits of using eportfolios with students, and we will introduce the technical aspects of using Google Sites. We will provide a few examples of eportfolios created using this platform, and we will give time for hands-on work in Google Sites.",
+          "LOCATION": "Preus Library, Hovde Room",
+          "LAST-MODIFIED": "20181203T124636",
+          "CREATED": "20181203T094735",
+          "DTSTART": "20190109T100000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034001-826536@reason",
+          "SUMMARY": "Chapel: Laughter Yoga with Laura Gentry",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T114557",
+          "CREATED": "20180813T034001",
+          "DTSTART": "20190109T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717150330-824484@reason",
+          "SUMMARY": "Wartburg College",
+          "LOCATION": "Waverly, Iowa",
+          "LAST-MODIFIED": "20180717T150600",
+          "CREATED": "20180717T150330",
+          "DTSTART": "20190109T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154116-824545@reason",
+          "SUMMARY": "Wartburg College",
+          "LOCATION": "Waverly, Iowa",
+          "LAST-MODIFIED": "20180717T154207",
+          "CREATED": "20180717T154116",
+          "DTSTART": "20190109T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612111827-818347@reason",
+          "SUMMARY": "Symphony Orchestra Vienna Residency Begins",
+          "DESCRIPTION": "Symphony Orchestra January residency in Vienna",
+          "LOCATION": "Vienna, Austria",
+          "LAST-MODIFIED": "20190102T080523",
+          "CREATED": "20180612T111827",
+          "DTSTART;VALUE=DATE": "20190110",
+          "DTEND;VALUE=DATE": "20190110"
+        },
+        {
+          "UID": "20180816113357-827263@reason",
+          "SUMMARY": "Emeriti Colloquium: Brian Solberg, \"Athletic Training at Luther College\"",
+          "LOCATION": "Dahl Centennial Union, Mott Room",
+          "LAST-MODIFIED": "20180816T113503",
+          "CREATED": "20180816T113357",
+          "DTSTART": "20190110T150000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180626154212-819591@reason",
+          "SUMMARY": "Wartburg College",
+          "LOCATION": "Waverly, Iowa",
+          "LAST-MODIFIED": "20180626T154239",
+          "CREATED": "20180626T154212",
+          "DTSTART": "20190110T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034001-826537@reason",
+          "SUMMARY": "Walk the Labyrinth",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T115246",
+          "CREATED": "20180813T034001",
+          "DTSTART": "20190111T103000",
+          "DURATION": "PT3H0M0S"
+        },
+        {
+          "UID": "20180605084149-817689@reason",
+          "SUMMARY": "Coe College",
+          "DESCRIPTION": "http://sports.luther.edu/swimming/index.htm",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20190107T104422",
+          "CREATED": "20180605T084149",
+          "DTSTART": "20190111T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181127150710-841702@reason",
+          "SUMMARY": "Coe College",
+          "DESCRIPTION": "http://sports.luther.edu/swimming/index.htm",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20190107T104314",
+          "CREATED": "20181127T150710",
+          "DTSTART": "20190111T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20160916124352-718322@reason",
+          "SUMMARY": "ETS Testing at Luther College",
+          "LOCATION": "Main 113",
+          "URL": "https://www.luther.edu/education/students/testing/",
+          "LAST-MODIFIED": "20180612T152850",
+          "CREATED": "20160916T124352",
+          "DTSTART": "20190112T073000",
+          "DURATION": "PT5H30M0S"
+        },
+        {
+          "UID": "20180626154244-819595@reason",
+          "SUMMARY": "Cornell Matman Invitational",
+          "LOCATION": "Mount Vernon, Iowa",
+          "LAST-MODIFIED": "20180626T154314",
+          "CREATED": "20180626T154244",
+          "DTSTART": "20190112T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180605083036-817663@reason",
+          "SUMMARY": "Norse Sprint Invitational",
+          "DESCRIPTION": "http://sports.luther.edu/swimming/index.htm",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20190107T104357",
+          "CREATED": "20180605T083036",
+          "DTSTART": "20190112T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180605084223-817691@reason",
+          "SUMMARY": "Norse Sprint Invitational",
+          "DESCRIPTION": "http://sports.luther.edu/swimming/index.htm",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20190108T092942",
+          "CREATED": "20180605T084223",
+          "DTSTART": "20190112T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717150634-824489@reason",
+          "SUMMARY": "Central College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T150714",
+          "CREATED": "20180717T150634",
+          "DTSTART": "20190112T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181002114932-834901@reason",
+          "SUMMARY": "Mid-Winter Community Day Pizza Party",
+          "LOCATION": "Luther College",
+          "LAST-MODIFIED": "20181002T115047",
+          "CREATED": "20181002T114932",
+          "DTSTART": "20190112T140000",
+          "DURATION": "PT4H0M0S"
+        },
+        {
+          "UID": "20180717154227-824547@reason",
+          "SUMMARY": "Central College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T154305",
+          "CREATED": "20180717T154227",
+          "DTSTART": "20190112T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826370@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150702",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190113T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702093807-819900@reason",
+          "SUMMARY": "Dorian Vocal Festival Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181026T163746",
+          "CREATED": "20180702T093807",
+          "DTSTART": "20190113T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813031021-826444@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Jenson-Noble Hall of Music, Noble Recital Hall",
+          "LAST-MODIFIED": "20190103T160833",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190113T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034001-826538@reason",
+          "SUMMARY": "Chapel: Mike Blair",
+          "DESCRIPTION": "Musical Offering: Faculty Ensemble",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20190104T115348",
+          "CREATED": "20180813T034001",
+          "DTSTART": "20190114T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702093944-819902@reason",
+          "SUMMARY": "Dorian Vocal Festival Grand Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T142930",
+          "CREATED": "20180702T093944",
+          "DTSTART": "20190114T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034002-826539@reason",
+          "SUMMARY": "Chapel: Laughter Yoga with Laura Gentry",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T114616",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190116T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717150717-824491@reason",
+          "SUMMARY": "Loras College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T150801",
+          "CREATED": "20180717T150717",
+          "DTSTART": "20190116T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154310-824549@reason",
+          "SUMMARY": "Loras College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T154346",
+          "CREATED": "20180717T154310",
+          "DTSTART": "20190116T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180605083118-817665@reason",
+          "SUMMARY": "Grinnell Invitational",
+          "LOCATION": "Grinnell, Iowa",
+          "URL": "https://portal.stretchinternet.com/grinnell/",
+          "LAST-MODIFIED": "20190108T092059",
+          "CREATED": "20180605T083118",
+          "DTSTART": "20190118T090000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190119T235959;INTERVAL=1"
+        },
+        {
+          "UID": "20180605084250-817693@reason",
+          "SUMMARY": "Grinnell Invitational",
+          "LOCATION": "Grinnell, Iowa",
+          "URL": "https://portal.stretchinternet.com/grinnell/",
+          "LAST-MODIFIED": "20190108T092124",
+          "CREATED": "20180605T084250",
+          "DTSTART": "20190118T090000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190119T235959;INTERVAL=1"
+        },
+        {
+          "UID": "20180813034002-826540@reason",
+          "SUMMARY": "Walk the Labyrinth",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T115300",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190118T103000",
+          "DURATION": "PT3H0M0S"
+        },
+        {
+          "UID": "20180907133835-830828@reason",
+          "SUMMARY": "Sol Buttler Classic",
+          "LOCATION": "University of Dubuque - Dubuque, Iowa",
+          "LAST-MODIFIED": "20180907T135226",
+          "CREATED": "20180907T133835",
+          "DTSTART;VALUE=DATE": "20190119",
+          "DTEND;VALUE=DATE": "20190119"
+        },
+        {
+          "UID": "20180907135448-830870@reason",
+          "SUMMARY": "Sol Buttler Classic",
+          "LOCATION": "University of Dubuque - Dubuque, Iowa",
+          "LAST-MODIFIED": "20180907T135517",
+          "CREATED": "20180907T135448",
+          "DTSTART;VALUE=DATE": "20190119",
+          "DTEND;VALUE=DATE": "20190119"
+        },
+        {
+          "UID": "20180626154343-819597@reason",
+          "SUMMARY": "American Rivers Conference Duals",
+          "LOCATION": "Indianola, Iowa",
+          "LAST-MODIFIED": "20180925T165801",
+          "CREATED": "20180626T154343",
+          "DTSTART": "20190119T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717150804-824493@reason",
+          "SUMMARY": "Nebraska Wesleyan University",
+          "LOCATION": "Lincoln, Neb.",
+          "LAST-MODIFIED": "20180717T150922",
+          "CREATED": "20180717T150804",
+          "DTSTART": "20190119T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154351-824551@reason",
+          "SUMMARY": "Nebraska Wesleyan University",
+          "LOCATION": "Lincoln, Neb.",
+          "LAST-MODIFIED": "20180717T154431",
+          "CREATED": "20180717T154351",
+          "DTSTART": "20190119T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826371@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150650",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190120T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813031021-826445@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190103T160906",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190120T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826541@reason",
+          "SUMMARY": "Chapel: MLK Jr. Day, Civil Rights Sing with Liz Rog",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T115025",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190121T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20190103155223-845793@reason",
+          "SUMMARY": "2019 Martin Luther King Jr. Day Commemoration: Roger Pulliam, \"A Fifty-Year Retrospective on Martin Luther King Jr.'s Impact on African American Students' Presence in Higher Education\"",
+          "DESCRIPTION": "After the 1968 assassination of Martin Luther King Jr., black college students across the United States reacted with sit-ins and demands that their campuses recruit more African American students, hire more faculty and administrators of color, and implement a diverse curriculum. Roger Pulliam was at Western Michigan University in 1968 when a group of students known as the Black Action Movement submitted a list of demands to WMU’s president challenging discriminatory practices at the school and demanding an increase in racial minority student and faculty representation on campus. That movement gave rise to what eventually became WMU’s Martin Luther King Jr. Student Scholars Academy. Having worked as a faculty member and administrator at predominantly white campuses for over 50 years, Pulliam will share insights regarding how King’s philosophy and vision empowered black students to engage in one of the most transformative educational movements in U.S. history. He will also explore how King’s philosophy and vision speak to today’s racial realities at colleges and universities across the U.S.\\nFor 30 years, Roger Pulliam was professor of curriculum and instruction in the College of Education at the University of Wisconsin– Whitewater, from which he retired as emeritus assistant vice chancellor for Academic Support Services. He has written extensively about black student unions and is senior faculty advisor of the Office of National Black Student Union.",
+          "LOCATION": "Valders Hall of Science, Room 206",
+          "LAST-MODIFIED": "20190103T170933",
+          "CREATED": "20190103T155223",
+          "DTSTART": "20190121T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826542@reason",
+          "SUMMARY": "Chapel: Laughter Yoga with Laura Gentry",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T114631",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190123T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717150947-824495@reason",
+          "SUMMARY": "University of Dubuque",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180717T151022",
+          "CREATED": "20180717T150947",
+          "DTSTART": "20190123T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154435-824553@reason",
+          "SUMMARY": "University of Dubuque",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180717T154532",
+          "CREATED": "20180717T154435",
+          "DTSTART": "20190123T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826543@reason",
+          "SUMMARY": "Walk the Labyrinth",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T115320",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190125T103000",
+          "DURATION": "PT3H0M0S"
+        },
+        {
+          "UID": "20180626154415-819599@reason",
+          "SUMMARY": "Loras Duhawk Open",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180626T154440",
+          "CREATED": "20180626T154415",
+          "DTSTART": "20190126T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717151024-824497@reason",
+          "SUMMARY": "Buena Vista University",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T151112",
+          "CREATED": "20180717T151024",
+          "DTSTART": "20190126T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154537-824556@reason",
+          "SUMMARY": "Buena Vista University",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T154620",
+          "CREATED": "20180717T154537",
+          "DTSTART": "20190126T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918102706-832425@reason",
+          "SUMMARY": "Nordic Choir Concert:  Austin, Minn.",
+          "DESCRIPTION": "The Luther College Nordic Choir will perform at Knowlton Auditorium, Austin High School, 301 3rd St. NW, in Austin, Minnesota. The concert is open to the public. Tickets are $20 for adults; admission is free for students . Tickets are available online at tickets.luther.edu, by calling (800) 4-Luther, or may be purchased at the door.\\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Austin High School, Austin, Minn.",
+          "LAST-MODIFIED": "20181107T085945",
+          "CREATED": "20180918T102706",
+          "DTSTART": "20190126T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180813025357-826372@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150639",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190127T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918104024-832433@reason",
+          "SUMMARY": "Nordic Choir Concert:  Ames, Iowa",
+          "DESCRIPTION": "The Luther College Nordic Choir will perform at Bethesda Lutheran Church, 1517 Northwestern Ave. in Ames, Iowa. The concert is open to the public. Tickets are $20 for adults; $10 for seniors and students. Reserve tickets online at tickets.luther.edu or by calling (800) 4-Luther. They may also be purchased at the Bethesda Lutheran Church office in advance.  Remaining tickets will be available at the door.\\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Bethesda Lutheran Church, Ames, Iowa",
+          "LAST-MODIFIED": "20181107T092400",
+          "CREATED": "20180918T104024",
+          "DTSTART": "20190127T160000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180813031021-826446@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190103T160938",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190127T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826544@reason",
+          "SUMMARY": "Chapel: Liz Rog, Community Sing",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T115101",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190128T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702094132-819904@reason",
+          "SUMMARY": "J-term Opera Performance",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20181026T163855",
+          "CREATED": "20180702T094132",
+          "DTSTART": "20190129T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180717154622-824558@reason",
+          "SUMMARY": "Maranatha Baptist University",
+          "LOCATION": "Watertown, Wis.",
+          "LAST-MODIFIED": "20180717T154740",
+          "CREATED": "20180717T154622",
+          "DTSTART": "20190129T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612104303-818311@reason",
+          "SUMMARY": "Symphony Orchestra Concert in Bratislava, Slovakia",
+          "DESCRIPTION": "Orchestra concert in Bratislava, Slovakia.",
+          "LOCATION": "Bratislava",
+          "LAST-MODIFIED": "20181107T110027",
+          "CREATED": "20180612T104303",
+          "DTSTART": "20190129T200000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181005150855-835704@reason",
+          "SUMMARY": "End of January Term",
+          "LAST-MODIFIED": "20181005T151017",
+          "CREATED": "20181005T150855",
+          "DTSTART;VALUE=DATE": "20190130",
+          "DTEND;VALUE=DATE": "20190130"
+        },
+        {
+          "UID": "20180813034002-826545@reason",
+          "SUMMARY": "Chapel: Laughter Yoga with Laura Gentry",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190104T114649",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190130T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180626154443-819604@reason",
+          "SUMMARY": "Central College",
+          "LOCATION": "Pella, Iowa",
+          "LAST-MODIFIED": "20180626T154510",
+          "CREATED": "20180626T154443",
+          "DTSTART": "20190131T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612105601-818324@reason",
+          "SUMMARY": "Symphony Orchestra Concert in Eisenstadt, Austria",
+          "DESCRIPTION": "Symphony Orchestra Concert in Eisenstadt, Austria",
+          "LOCATION": "Eisenstadt",
+          "LAST-MODIFIED": "20181107T110047",
+          "CREATED": "20180612T105601",
+          "DTSTART": "20190131T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180918104857-832437@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Sterling, Ill.",
+          "DESCRIPTION": "As part of its Great Lakes Tour, the Luther College Nordic Choir will perform at St. Paul Lutheran Church, 1701 16th Ave., in Sterling, Illinois. The concert is co-sponsored and generously underwritten by Pine Creek Christian Church in Polo. There is no charge for admission. A freewill offering will be collected to benefit the youth of St. Paul Lutheran Church and St. John’s Lutheran Church, Sterling; and Immanuel Lutheran Church, Rock Falls.\\nThe 2019 Nordic Choir tour program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "St. Paul Lutheran Church, Sterling, Illinois",
+          "LAST-MODIFIED": "20181107T090248",
+          "CREATED": "20180918T104857",
+          "DTSTART": "20190201T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180626154513-819606@reason",
+          "SUMMARY": "Don Parker Invite",
+          "LOCATION": "UW-Eau Claire - Eau Claire, Wis.",
+          "LAST-MODIFIED": "20180626T154546",
+          "CREATED": "20180626T154513",
+          "DTSTART": "20190202T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907134036-830832@reason",
+          "SUMMARY": "Luther Alumni Meet",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180907T134124",
+          "CREATED": "20180907T134036",
+          "DTSTART": "20190202T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907135600-830874@reason",
+          "SUMMARY": "Luther Alumni Meet",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180907T135621",
+          "CREATED": "20180907T135600",
+          "DTSTART": "20190202T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717151124-824499@reason",
+          "SUMMARY": "Coe College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T151154",
+          "CREATED": "20180717T151124",
+          "DTSTART": "20190202T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154744-824560@reason",
+          "SUMMARY": "Coe College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T154819",
+          "CREATED": "20180717T154744",
+          "DTSTART": "20190202T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612110753-818338@reason",
+          "SUMMARY": "Symphony Orchestra Concert at the Musikverein in Vienna, Austria",
+          "DESCRIPTION": "Symphony Orchestra Concert in Vienna, Austria",
+          "LOCATION": "Vienna",
+          "LAST-MODIFIED": "20181107T110006",
+          "CREATED": "20180612T110753",
+          "DTSTART": "20190202T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180918105659-832441@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Ann Arbor, Mich.",
+          "DESCRIPTION": "As part of its Great Lakes Tour, the Luther College Nordic Choir will perform at Bethlehem United Church of Christ, 423 S. 4th Ave., Ann Arbor, Michigan. The concert is open to the public. Parking is available at the 4th and William ramp (115 E William Street).\\nTickets are $20; $15 for students. Reserve tickets online at tickets.luther.edu or by calling (800) 4-Luther. Tickets are also available at the Bethlehem United Church of Christ office. Remaining tickets will be available at the door.\\nThe 2019 Nordic Choir tour program includes “Praise the Name of the Lord” by Sergei Rachmaninoff,“Pater Noster” by Jacob Handl,“Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Bethlehem United Church of Christ, Ann Arbor, Michigan",
+          "LAST-MODIFIED": "20181107T090917",
+          "CREATED": "20180918T105659",
+          "DTSTART": "20190202T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180918113215-832483@reason",
+          "SUMMARY": "Worship Service with Nordic Choir: Ann Arbor, Mich.",
+          "DESCRIPTION": "The Luther College Nordic Choir will participate in the 9:00 a.m. morning worship service at Zion Lutheran Church, 1501 West Liberty Road, Ann Arbor, Michigan.",
+          "LOCATION": "Zion Lutheran Church, Ann Arbor, Mich.",
+          "LAST-MODIFIED": "20181227T091118",
+          "CREATED": "20180918T113215",
+          "DTSTART": "20190203T090000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813031021-826447@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190203T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717151156-824501@reason",
+          "SUMMARY": "Simpson College",
+          "LOCATION": "Indianola, Iowa",
+          "LAST-MODIFIED": "20180717T151240",
+          "CREATED": "20180717T151156",
+          "DTSTART": "20190204T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918105923-832443@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Dublin, Ohio",
+          "DESCRIPTION": "As part of their Great Lakes Tour, the Luther College Nordic Choir will perform at Prince of Peace Lutheran Church, 5745 Brand Road in Dublin, Ohio. The performance is open to the public. The concert is part of the church's concert series and there is no charge for admission.  A freewill offering will be collected.\\nThe 2019 Nordic Choir tour program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Prince of Peace Lutheran Church, Dublin, Ohio",
+          "LAST-MODIFIED": "20181109T110905",
+          "CREATED": "20180918T105923",
+          "DTSTART": "20190204T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180717154821-824562@reason",
+          "SUMMARY": "Simpson College",
+          "LOCATION": "Indianola, Iowa",
+          "LAST-MODIFIED": "20180717T154856",
+          "CREATED": "20180717T154821",
+          "DTSTART": "20190204T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918110453-832450@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Fort Wayne, Ind.",
+          "DESCRIPTION": "As part of their Great Lakes Tour, the Luther College Nordic Choir will perform at Trinity English Lutheran Church, 450 West Washington Blvd. in Fort Wayne, Indiana. The concert is open to the public and there is no charge for admission.  A freewill offering will be collected.\\nThe 2019 Nordic Choir tour program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Trinity English Lutheran Church, Fort Wayne, Ind.",
+          "LAST-MODIFIED": "20181227T091032",
+          "CREATED": "20180918T110453",
+          "DTSTART": "20190205T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181005151024-835708@reason",
+          "SUMMARY": "Spring Semester Classes Begin",
+          "LAST-MODIFIED": "20181005T151109",
+          "CREATED": "20181005T151024",
+          "DTSTART;VALUE=DATE": "20190206",
+          "DTEND;VALUE=DATE": "20190206"
+        },
+        {
+          "UID": "20180813034002-826548@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T084550",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190206T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717151302-824503@reason",
+          "SUMMARY": "Wartburg College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T151338",
+          "CREATED": "20180717T151302",
+          "DTSTART": "20190206T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918111652-832460@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  River Forest, Ill.",
+          "DESCRIPTION": "As part of their Great Lakes Tour, the Luther College Nordic Choir will perform at Grace Lutheran Church, 7300 Division Street, in River Forest, Illinois. The concert is open to the public. Tickets are $20. Reserve tickets online at tickets.luther.edu or by calling (800) 4-Luther. Remaining tickets will be available at the door.\\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Grace Lutheran Church, River Forest, Ill.",
+          "LAST-MODIFIED": "20181107T092613",
+          "CREATED": "20180918T111652",
+          "DTSTART": "20190206T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180717154859-824564@reason",
+          "SUMMARY": "Wartburg College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T154933",
+          "CREATED": "20180717T154859",
+          "DTSTART": "20190206T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20151112131039-659482@reason",
+          "SUMMARY": "IACTE Day at the Capitol",
+          "DESCRIPTION": "Education students travel to the Iowa State Capitol Building in Des Moines, IA",
+          "LOCATION": "Des Moines, Iowa",
+          "URL": "https://www.luther.edu/education/dayatthecapitol",
+          "LAST-MODIFIED": "20180612T115043",
+          "CREATED": "20151112T131039",
+          "DTSTART;VALUE=DATE": "20190207",
+          "DTEND;VALUE=DATE": "20190207"
+        },
+        {
+          "UID": "20190107112219-846187@reason",
+          "SUMMARY": "Spring Semester Opening Convocation: Tiffany Patterson",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20190107T112416",
+          "CREATED": "20190107T112219",
+          "DTSTART": "20190207T094000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918111937-832465@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Janesville, Wis.",
+          "DESCRIPTION": "As part of their Great Lakes Tour, the Luther College Nordic Choir will perform at First Lutheran Church, 612 N. Randall Avenue in Janesville, Wisconsin. The concert is open to the public. Tickets are $15 for adults; $10 for seniors and students. Reserve tickets online at tickets.luther.edu or by calling (800) 4-Luther. They may also be purchased at the First Lutheran Church office or at Knapton Musik Knotes, 2475 Milton Avenue, in advance.  Remaining tickets will be available at the door.\\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "First Lutheran Church, Janesville, Wisconsin",
+          "LAST-MODIFIED": "20181107T093220",
+          "CREATED": "20180918T111937",
+          "DTSTART": "20190207T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180813034002-826549@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T084604",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190208T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180626154551-819608@reason",
+          "SUMMARY": "Buena Vista University",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180626T154623",
+          "CREATED": "20180626T154551",
+          "DTSTART": "20190208T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702094356-819906@reason",
+          "SUMMARY": "Faculty Artist Series: Brass Trio, horn/trumpet/trombone",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151329",
+          "CREATED": "20180702T094356",
+          "DTSTART": "20190208T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180918112206-832469@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Eau Claire, Wis.",
+          "DESCRIPTION": "As part of their Great Lakes Tour, the Luther College Nordic Choir will perform at Hope Lutheran Church, 2226 Eddy Lane in Eau Claire, Wisconsin. The concert is open to the public. Tickets are $20; $15 for seniors and students. Reserve tickets online at tickets.luther.edu or by calling (800) 4-Luther. They may also be purchased at the Hope Lutheran Church office (715-832-1414). Remaining tickets will be available at the door.\\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.\\n ",
+          "LOCATION": "Hope Lutheran Church, Eau Claire, Wisconsin",
+          "LAST-MODIFIED": "20181227T091055",
+          "CREATED": "20180918T112206",
+          "DTSTART": "20190208T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181112103020-839896@reason",
+          "SUMMARY": "Scholar Recognition Day",
+          "LOCATION": "Center for Faith & Life",
+          "URL": "redirect: https://connect.luther.edu/register/grp-scholar-day-2-9-19",
+          "LAST-MODIFIED": "20181112T103413",
+          "CREATED": "20181112T103020",
+          "DTSTART;VALUE=DATE": "20190209",
+          "DTEND;VALUE=DATE": "20190209"
+        },
+        {
+          "UID": "20180626154747-819612@reason",
+          "SUMMARY": "Winona State Invite",
+          "LOCATION": "Rochester, Minn.",
+          "LAST-MODIFIED": "20180626T154819",
+          "CREATED": "20180626T154747",
+          "DTSTART": "20190209T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907134129-830834@reason",
+          "SUMMARY": "UW-Platteville Invitational",
+          "LOCATION": "UW-Platteville - Platteville, Wis.",
+          "LAST-MODIFIED": "20180907T135153",
+          "CREATED": "20180907T134129",
+          "DTSTART": "20190209T110000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907135626-830876@reason",
+          "SUMMARY": "UW-Platteville Invitational",
+          "LOCATION": "UW-Platteville - Platteville, Wis.",
+          "LAST-MODIFIED": "20180907T135653",
+          "CREATED": "20180907T135626",
+          "DTSTART": "20190209T110000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717151341-824505@reason",
+          "SUMMARY": "Central College",
+          "LOCATION": "Pella, Iowa",
+          "LAST-MODIFIED": "20180717T151414",
+          "CREATED": "20180717T151341",
+          "DTSTART": "20190209T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717154939-824566@reason",
+          "SUMMARY": "Central College",
+          "LOCATION": "Pella, Iowa",
+          "LAST-MODIFIED": "20180717T155017",
+          "CREATED": "20180717T154939",
+          "DTSTART": "20190209T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702094528-819908@reason",
+          "SUMMARY": "Faculty Artist Series: Luther College Piano Quartet",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151344",
+          "CREATED": "20180702T094528",
+          "DTSTART": "20190209T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180918112412-832472@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Apple Valley, Minn.",
+          "DESCRIPTION": "As part of their 2019 Tour, the Luther College Nordic Choir will perform at Shepherd of the Valley Lutheran Church, 12650 Johnny Cake Ridge Road, in Apple Valley, Minnesota. The concert is open to the public.  Tickets are $20; $10 for students. Reserve tickets online at tickets.luther.edu or by calling (800) 4-Luther.  Remaining tickets will be available at the door.\\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.\\n ",
+          "LOCATION": "Shepherd of the Valley Lutheran Church, Apple Valley, Minn.",
+          "LAST-MODIFIED": "20181107T093624",
+          "CREATED": "20180918T112412",
+          "DTSTART": "20190209T193000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180918112647-832478@reason",
+          "SUMMARY": "Worship Services with Nordic Choir:  Apple Valley, Minn.",
+          "DESCRIPTION": "The Luther College Nordic Choir will participate in the 8:30 and 9:45 a.m. worship services at Shepherd of the Valley Lutheran Church, 12650 Johnny Cake Ridge Road, in Apple Valley, Minnesota.",
+          "LOCATION": "Shepherd of the Valley Lutheran Church, Apple Valley, Minn.",
+          "LAST-MODIFIED": "20181107T093756",
+          "CREATED": "20180918T112647",
+          "DTSTART": "20190210T083000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813025357-826374@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150628",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190210T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918112908-832480@reason",
+          "SUMMARY": "Nordic Choir Great Lakes Tour:  Charles City, Iowa",
+          "DESCRIPTION": "The Luther College Nordic Choir will perform at Trinity United Methodist Church, 601 Milwaukee Street, Charles City, Iowa. The concert is open to the public. The concert is being generously underwritten by the church and there is no charge for admission. \\nThe program includes “Praise the Name of the Lord” by Sergei Rachmaninoff, “Pater Noster” by Jacob Handl, “Psalm 50” by F. Melius Christiansen, as well as hymn arrangements, spirituals, and the traditional Nordic Choir closing piece, \"O Lord God\" by Pavel Chesnokov.",
+          "LOCATION": "Trinity United Methodist Church, Charles City, Iowa",
+          "LAST-MODIFIED": "20181107T100722",
+          "CREATED": "20180918T112908",
+          "DTSTART": "20190210T160000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180702094705-819910@reason",
+          "SUMMARY": "Dorian Orchestra Festival; Dorian Chamber Ensembles",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151359",
+          "CREATED": "20180702T094705",
+          "DTSTART": "20190210T163000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180702094854-819912@reason",
+          "SUMMARY": "Symphony Orchestra Homecoming Concert",
+          "DESCRIPTION": "This event will be live streamed for viewers who are further than 30 miles (approximately) from Luther College.",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181107T105720",
+          "CREATED": "20180702T094854",
+          "DTSTART": "20190210T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813031021-826448@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Jenson-Noble Hall of Music, Noble Recital Hall",
+          "LAST-MODIFIED": "20180813T152034",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190210T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826550@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T084622",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190211T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702100432-819922@reason",
+          "SUMMARY": "Dorian Orchestra Festival Grand Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180702T150413",
+          "CREATED": "20180702T100432",
+          "DTSTART": "20190211T173000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180702100606-819924@reason",
+          "SUMMARY": "Nordic Choir Homecoming Concert",
+          "DESCRIPTION": "This event will be live streamed for viewers who are further than 30 miles (approximately) from Luther College.",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181107T104331",
+          "CREATED": "20180702T100606",
+          "DTSTART": "20190212T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180605083208-817667@reason",
+          "SUMMARY": "Liberal Arts Championships",
+          "LOCATION": "Coe College - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180605T083259",
+          "CREATED": "20180605T083208",
+          "DTSTART": "20190213T100000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190216T235959;INTERVAL=3"
+        },
+        {
+          "UID": "20180605084330-817695@reason",
+          "SUMMARY": "Liberal Arts Championships",
+          "LOCATION": "Coe College - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180605T084408",
+          "CREATED": "20180605T084330",
+          "DTSTART": "20190213T100000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190216T235959;INTERVAL=3"
+        },
+        {
+          "UID": "20180813034002-826551@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T084635",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190213T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717151417-824507@reason",
+          "SUMMARY": "Loras College",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180717T151456",
+          "CREATED": "20180717T151417",
+          "DTSTART": "20190213T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717155020-824568@reason",
+          "SUMMARY": "Loras College",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180717T155056",
+          "CREATED": "20180717T155020",
+          "DTSTART": "20190213T200000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20140820162150-566345@reason",
+          "SUMMARY": "ELCA Summer Camp Fair",
+          "DESCRIPTION": "Camp representatives, sponsored by the ELCA, offering summer opportunities.",
+          "LOCATION": "Dahl Centennial Union, Main Lounge",
+          "LAST-MODIFIED": "20181106T153812",
+          "CREATED": "20140820T162150",
+          "DTSTART": "20190214T100000",
+          "DURATION": "PT6H0M0S"
+        },
+        {
+          "UID": "20180816113511-827265@reason",
+          "SUMMARY": "Emeriti Colloquium: Mike Blair, \"The Evolution of Young Adult Spirituality\"",
+          "LOCATION": "Dahl Centennial Union, Mott Room",
+          "LAST-MODIFIED": "20180816T114908",
+          "CREATED": "20180816T113511",
+          "DTSTART": "20190214T150000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20181005151258-835712@reason",
+          "SUMMARY": "Last day to add full semester classes",
+          "LAST-MODIFIED": "20181005T151340",
+          "CREATED": "20181005T151258",
+          "DTSTART;VALUE=DATE": "20190215",
+          "DTEND;VALUE=DATE": "20190215"
+        },
+        {
+          "UID": "20180813034002-826552@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T084957",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190215T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180823145139-828087@reason",
+          "SUMMARY": "Twin Cities Lunch Connection Luncheon",
+          "LOCATION": "Roseville Lutheran Church",
+          "URL": "https://www.luther.edu/alumni/events/lunch-connection/",
+          "LAST-MODIFIED": "20180823T145426",
+          "CREATED": "20180823T145139",
+          "DTSTART": "20190215T110000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180907134210-830836@reason",
+          "SUMMARY": "Spartan Invite",
+          "LOCATION": "University of Dubuque - Dubuque, Iowa",
+          "LAST-MODIFIED": "20180907T135139",
+          "CREATED": "20180907T134210",
+          "DTSTART": "20190215T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907135658-830878@reason",
+          "SUMMARY": "Spartan Invite",
+          "LOCATION": "University of Dubuque - Dubuque, Iowa",
+          "LAST-MODIFIED": "20180907T135724",
+          "CREATED": "20180907T135658",
+          "DTSTART": "20190215T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116162325-840394@reason",
+          "SUMMARY": "Creighton University",
+          "LOCATION": "Hanscom Indoor Tennis Center - Omaha Neb.",
+          "LAST-MODIFIED": "20181119T092147",
+          "CREATED": "20181116T162325",
+          "DTSTART": "20190215T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180822170257-827924@reason",
+          "SUMMARY": "Center Stage Series: The Westerlies",
+          "DESCRIPTION": " \\nThis unconventional brass quartet embraces jazz, classical, folk, marching band, chamber, and dance music with a repertoire that ranges from muted to rousing, composerly to boisterous. Equally at home in concert halls and living rooms, the Westerlies combine the precision of a string quartet, the audacity of a rock band, and the charm of a family sing-along.",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "URL": "https://tickets.luther.edu/Online/Article/westerlies",
+          "LAST-MODIFIED": "20180822T170634",
+          "CREATED": "20180822T170257",
+          "DTSTART": "20190215T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20160916124303-718320@reason",
+          "SUMMARY": "ETS Testing at Luther College",
+          "LOCATION": "Main 113",
+          "URL": "https://www.luther.edu/education/students/testing/",
+          "LAST-MODIFIED": "20180612T152917",
+          "CREATED": "20160916T124303",
+          "DTSTART": "20190216T073000",
+          "DURATION": "PT5H30M0S"
+        },
+        {
+          "UID": "20181116162401-840396@reason",
+          "SUMMARY": "Nebraska Wesleyan University",
+          "LOCATION": "Lincoln, Neb.",
+          "LAST-MODIFIED": "20181119T092212",
+          "CREATED": "20181116T162401",
+          "DTSTART": "20190216T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180717151504-824509@reason",
+          "SUMMARY": "Nebraska Wesleyan University",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T151557",
+          "CREATED": "20180717T151504",
+          "DTSTART": "20190216T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702100805-819926@reason",
+          "SUMMARY": "Faculty Artist Series: Rachel Storlie, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180914T124935",
+          "CREATED": "20180702T100805",
+          "DTSTART": "20190216T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180717155058-824570@reason",
+          "SUMMARY": "Nebraska Wesleyan University",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180717T155135",
+          "CREATED": "20180717T155058",
+          "DTSTART": "20190216T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116162431-840398@reason",
+          "SUMMARY": "Buena Vista University",
+          "LOCATION": "Storm Lake, Iowa",
+          "LAST-MODIFIED": "20181116T162500",
+          "CREATED": "20181116T162431",
+          "DTSTART": "20190216T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826375@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150616",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190217T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702101002-819928@reason",
+          "SUMMARY": "Faculty Artist Series: Carla Hanson, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151439",
+          "CREATED": "20180702T101002",
+          "DTSTART": "20190217T140000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813031021-826449@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190217T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826553@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085015",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190218T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717151638-824511@reason",
+          "SUMMARY": "American Rivers Conference Tournament 1st Round",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T061241",
+          "CREATED": "20180717T151638",
+          "DTSTART;VALUE=DATE": "20190219",
+          "DTEND;VALUE=DATE": "20190219"
+        },
+        {
+          "UID": "20180717155452-824572@reason",
+          "SUMMARY": "American Rivers Conference Tournament 1st Round",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T061220",
+          "CREATED": "20180717T155452",
+          "DTSTART;VALUE=DATE": "20190219",
+          "DTEND;VALUE=DATE": "20190219"
+        },
+        {
+          "UID": "20190102094222-845493@reason",
+          "SUMMARY": "Guest Lecture: Shahira Amin, \"The Egyptian Revolution Eight Years On\"",
+          "DESCRIPTION": "Shahira Amin is a Cairo-based independent journalist writing for Al Monitor, Index on Censorship, and Freemuse. She started her career as a broadcaster and was Deputy Head of state-run Nile TV when she resigned in February 2011 to protest censorship of her work. A longtime contributor to CNN's Inside Africa, Amin has filed numerous feature stories from the North Africa region on sectarian conflicts, the rights of women and minorities, gender-based violence, and the developments in her region. She is a founder-member of the Egyptian Media Women Union, a Cairo-based non governmental organization that acts as a support network for women journalists, extending moral, legal, and professional support to female journalists in the provinces outside Cairo. Amin is also former board member of the International Women's Forum, a Washington-based NGO that brings together women leaders from 44 countries. Amin has won several awards for her work, including Sweden's Holmes Award 2011, Spain's Julio Anguita Parrado Award 2012 for courageous journalism, The Global Thinkers Forum Excellence in Promoting Gender Equity Award 2014, the American University in Cairo's Catalyst for Change Award 2012, and the BMW Foundation's Responsible Leader Award 2016.",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20190102T100634",
+          "CREATED": "20190102T094222",
+          "DTSTART": "20190219T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826554@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085030",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190220T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180717151905-824514@reason",
+          "SUMMARY": "American Rivers Conference Tournament Semifinals",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T061258",
+          "CREATED": "20180717T151905",
+          "DTSTART;VALUE=DATE": "20190221",
+          "DTEND;VALUE=DATE": "20190221"
+        },
+        {
+          "UID": "20180717155532-824574@reason",
+          "SUMMARY": "American Rivers Conference Tournament Semifinals",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T061203",
+          "CREATED": "20180717T155532",
+          "DTSTART;VALUE=DATE": "20190221",
+          "DTEND;VALUE=DATE": "20190221"
+        },
+        {
+          "UID": "20140820161127-566333@reason",
+          "SUMMARY": "Summer Camp Fair",
+          "DESCRIPTION": "Explore camps for summer employment opportunities",
+          "LOCATION": "Dahl Centennial Union, Main Lounge",
+          "LAST-MODIFIED": "20181106T154320",
+          "CREATED": "20140820T161127",
+          "DTSTART": "20190221T100000",
+          "DURATION": "PT6H0M0S"
+        },
+        {
+          "UID": "20180907135728-830880@reason",
+          "SUMMARY": "American Rivers Conference Indoor Championships",
+          "LOCATION": "Wartburg College - Waverly, Iowa",
+          "LAST-MODIFIED": "20180907T135802",
+          "CREATED": "20180907T135728",
+          "DTSTART;VALUE=DATE": "20190222",
+          "DTEND;VALUE=DATE": "20190222",
+          "RRULE": "FREQ=DAILY;UNTIL=20190223T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20180907134256-830838@reason",
+          "SUMMARY": "American Rivers Conference Indoor Championships",
+          "LOCATION": "Wartburg College - Waverly, Iowa",
+          "LAST-MODIFIED": "20180907T135116",
+          "CREATED": "20180907T134256",
+          "DTSTART": "20190222T100000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190223T235959;INTERVAL=1"
+        },
+        {
+          "UID": "20180813034002-826555@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085050",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190222T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20181116160943-840368@reason",
+          "SUMMARY": "St. Olaf College",
+          "LOCATION": "Owatonna Tennis Center - Owatonna, Minn.",
+          "LAST-MODIFIED": "20181119T092344",
+          "CREATED": "20181116T160943",
+          "DTSTART": "20190222T183000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180918141515-832565@reason",
+          "SUMMARY": "SAC Entertainment: Eric O'Shea, comedian",
+          "DESCRIPTION": "Eric O'Shea is a stand-up comedian know for his creation of hte \"Song for Commercials\" and Elmo act. He has appeared on NBC, ABC, Disney, and has performed at the Emmy's.",
+          "LOCATION": "Dahl Centennial Union, Marty's",
+          "LAST-MODIFIED": "20180918T141712",
+          "CREATED": "20180918T141515",
+          "DTSTART": "20190222T193000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180717151950-824516@reason",
+          "SUMMARY": "American Rivers Conference Tournament Championship",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T061313",
+          "CREATED": "20180717T151950",
+          "DTSTART;VALUE=DATE": "20190223",
+          "DTEND;VALUE=DATE": "20190223"
+        },
+        {
+          "UID": "20180717155600-824576@reason",
+          "SUMMARY": "American Rivers Conference Tournament Championship",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T061146",
+          "CREATED": "20180717T155600",
+          "DTSTART;VALUE=DATE": "20190223",
+          "DTEND;VALUE=DATE": "20190223"
+        },
+        {
+          "UID": "20180814151343-826830@reason",
+          "SUMMARY": "Rochester Dome Games (2 Games)",
+          "LOCATION": "Rochester Dome, Rochester, Minn.",
+          "LAST-MODIFIED": "20180814T154008",
+          "CREATED": "20180814T151343",
+          "DTSTART;VALUE=DATE": "20190223",
+          "DTEND;VALUE=DATE": "20190223",
+          "RRULE": "FREQ=DAILY;UNTIL=20190224T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20181112103221-839898@reason",
+          "SUMMARY": "Scholar Recognition Day",
+          "LOCATION": "Center for Faith & Life",
+          "URL": "redirect: https://connect.luther.edu/register/grp-scholar-day-2-23-19",
+          "LAST-MODIFIED": "20181112T103403",
+          "CREATED": "20181112T103221",
+          "DTSTART;VALUE=DATE": "20190223",
+          "DTEND;VALUE=DATE": "20190223"
+        },
+        {
+          "UID": "20180626154853-819616@reason",
+          "SUMMARY": "NCAA III Lower Midwest Regionial",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180925T165846",
+          "CREATED": "20180626T154853",
+          "DTSTART": "20190223T090000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190224T235959;INTERVAL=1"
+        },
+        {
+          "UID": "20190105112930-845985@reason",
+          "SUMMARY": "Gustavus Adolphus",
+          "LOCATION": "Rochester Dome - Rochester, Minn.",
+          "LAST-MODIFIED": "20190105T113013",
+          "CREATED": "20190105T112930",
+          "DTSTART": "20190223T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20190105113025-845987@reason",
+          "SUMMARY": "Carroll University",
+          "LOCATION": "Rochester Dome - Rochester, Minn.",
+          "LAST-MODIFIED": "20190105T113054",
+          "CREATED": "20190105T113025",
+          "DTSTART": "20190223T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116162507-840400@reason",
+          "SUMMARY": "St. John's University (MN)",
+          "LOCATION": "Owatonna Tennis Center - Owatonna, Minn.",
+          "LAST-MODIFIED": "20181119T092407",
+          "CREATED": "20181116T162507",
+          "DTSTART": "20190223T123000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709123258-820503@reason",
+          "SUMMARY": "Sr. Recital: Elliot Douma, trombone/euphonium",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151451",
+          "CREATED": "20180709T123258",
+          "DTSTART": "20190223T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180702101248-819930@reason",
+          "SUMMARY": "Faculty Artist Series: Xiao Hu, Du Huang, Faculty Piano Duo",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151506",
+          "CREATED": "20180702T101248",
+          "DTSTART": "20190223T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20181116162544-840402@reason",
+          "SUMMARY": "St. Olaf College (MN)",
+          "LOCATION": "Owatonna Tennis Center - Owatonna, Minn.",
+          "LAST-MODIFIED": "20181119T092420",
+          "CREATED": "20181116T162544",
+          "DTSTART": "20190223T163000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826376@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150607",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190224T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702101529-819933@reason",
+          "SUMMARY": "Faculty Artist Series: Jonathon Struve, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151518",
+          "CREATED": "20180702T101529",
+          "DTSTART": "20190224T140000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180702101733-819935@reason",
+          "SUMMARY": "Faculty Artist Series: Lynne Postudensek Hart, saxophone",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151530",
+          "CREATED": "20180702T101733",
+          "DTSTART": "20190224T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813031021-826450@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190224T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826556@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085105",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190225T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180813034002-826557@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085119",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190227T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20181204090139-842630@reason",
+          "SUMMARY": "Distinguished Lecture: Ibram X. Kendi",
+          "DESCRIPTION": "Ibram X. Kendi—award-winning historian, New York Times best-selling author, professor of history and international relations, and the founding director of the Antiracist Research and Policy Center at American University—will give the Humanities Distinguished Lecture as part of Black History Month and the Black Student Union’s 50th anniversary celebrations.\\nHis talk will focus on topics discussed in his books The Black Campus Movement: Black Students and the Racial Reconstitution of Higher Education, 1965–1972 and Stamped from the Beginning: The Definitive History of Racist Ideas in America (National Book Award winner).",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "URL": "https://www.luther.edu/programming/distinguished/",
+          "LAST-MODIFIED": "20181204T094811",
+          "CREATED": "20181204T090139",
+          "DTSTART": "20190228T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826558@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085137",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190301T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20110211094230-318917@reason",
+          "SUMMARY": "DEADLINE: TEP Applications Due",
+          "DESCRIPTION": "Teacher Education Program Applications Due",
+          "LOCATION": "Koren 122",
+          "LAST-MODIFIED": "20180612T114651",
+          "CREATED": "20110211T094230",
+          "DTSTART": "20190301T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702102458-819941@reason",
+          "SUMMARY": "Faculty Artist Series: Spencer Martin, viola",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151543",
+          "CREATED": "20180702T102458",
+          "DTSTART": "20190301T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180814151541-826832@reason",
+          "SUMMARY": "ACM Games (4 Games)",
+          "LOCATION": "Rochester Dome, Rochester, Minn.",
+          "LAST-MODIFIED": "20180907T080003",
+          "CREATED": "20180814T151541",
+          "DTSTART;VALUE=DATE": "20190302",
+          "DTEND;VALUE=DATE": "20190302",
+          "RRULE": "FREQ=DAILY;UNTIL=20190303T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20181116161030-840370@reason",
+          "SUMMARY": "St. Scholastica",
+          "LOCATION": "Lifetime Fitness - White Bear Lake, Minn.",
+          "LAST-MODIFIED": "20181119T092509",
+          "CREATED": "20181116T161030",
+          "DTSTART;VALUE=DATE": "20190302",
+          "DTEND;VALUE=DATE": "20190302"
+        },
+        {
+          "UID": "20181116162616-840404@reason",
+          "SUMMARY": "St. Scholastica (MN)",
+          "LOCATION": "Lifetime Fitness - White Bear Lake, Minn.",
+          "LAST-MODIFIED": "20181119T092451",
+          "CREATED": "20181116T162616",
+          "DTSTART;VALUE=DATE": "20190302",
+          "DTEND;VALUE=DATE": "20190302"
+        },
+        {
+          "UID": "20180925133615-833672@reason",
+          "SUMMARY": "Spring Parents Council Meeting",
+          "LOCATION": "Loyalty Hall, Conference Room 100",
+          "LAST-MODIFIED": "20180925T133901",
+          "CREATED": "20180925T133615",
+          "DTSTART": "20190302T100000",
+          "DURATION": "PT5H0M0S"
+        },
+        {
+          "UID": "20180911143510-831399@reason",
+          "SUMMARY": "Sr. Recital:  Kia Feia, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T143608",
+          "CREATED": "20180911T143510",
+          "DTSTART": "20190302T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180927135125-834238@reason",
+          "SUMMARY": "Hamline University (1x7, 1x9)",
+          "LOCATION": "Bettis Sports Complex - Topeka, Kansas",
+          "LAST-MODIFIED": "20180927T135232",
+          "CREATED": "20180927T135125",
+          "DTSTART": "20190302T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709123539-820507@reason",
+          "SUMMARY": "Sr. Recital: Sam Naumann, cello",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151602",
+          "CREATED": "20180709T123539",
+          "DTSTART": "20190302T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180702102601-819946@reason",
+          "SUMMARY": "Faculty Artist Series: Miko Kominami, piano",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151621",
+          "CREATED": "20180702T102601",
+          "DTSTART": "20190302T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180709140050-820567@reason",
+          "SUMMARY": "Sr. Recital: Natalie Nelson, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180912T164819",
+          "CREATED": "20180709T140050",
+          "DTSTART": "20190302T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813025357-826377@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150555",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190303T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180927135236-834240@reason",
+          "SUMMARY": "Augsburg College (1x7, 1x9)",
+          "LOCATION": "Bettis Sports Complex - Topeka, Kansas",
+          "LAST-MODIFIED": "20180927T135316",
+          "CREATED": "20180927T135236",
+          "DTSTART": "20190303T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702102917-819953@reason",
+          "SUMMARY": "Dorian Band Festival Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180702T151101",
+          "CREATED": "20180702T102917",
+          "DTSTART": "20190303T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813031021-826451@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Jenson-Noble Hall of Music, Noble Recital Hall",
+          "LAST-MODIFIED": "20180813T152143",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190303T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826559@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085438",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190304T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702103128-819957@reason",
+          "SUMMARY": "Dorian Band Festival Grand Concert",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20181004T143117",
+          "CREATED": "20180702T103128",
+          "DTSTART": "20190304T183000",
+          "DURATION": "PT2H20M0S"
+        },
+        {
+          "UID": "20181005151359-835714@reason",
+          "SUMMARY": "Last day to withdraw from full semester class without record",
+          "LAST-MODIFIED": "20181005T151437",
+          "CREATED": "20181005T151359",
+          "DTSTART;VALUE=DATE": "20190305",
+          "DTEND;VALUE=DATE": "20190305"
+        },
+        {
+          "UID": "20180911154844-831543@reason",
+          "SUMMARY": "Paideia Text and Issues Lecture: Kate Elliott, \"Finding the Hjemland: Herbjørn Gausta and the Immigrant American Artist Experience\"",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20180911T155516",
+          "CREATED": "20180911T154844",
+          "DTSTART": "20190305T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826560@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085454",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190306T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180524164720-816744@reason",
+          "SUMMARY": "2019 Giving Day",
+          "DESCRIPTION": "The day features a 12-hour live stream bringing entertainment, engaging stories, and information from students, faculty, and staff across campus to Luther family and friends across the globe. The community is invited to make a gift, view the live stream, and get real-time updates on Giving Day at https://luther.edu/giving-day. Updates are also shared through social media throughout the day on Luther's Facebook page, https://facebook.com/luthercollege; Twitter feed, https://twitter.com/luthercollege; and Instagram feed, https://instagram.com/luthercollege. Observers can also participate in challenges and events throughout the day using #luthergives18 on social media.",
+          "LOCATION": "Dahl Centennial Union, Marty's",
+          "LAST-MODIFIED": "20180603T110155",
+          "CREATED": "20180524T164720",
+          "DTSTART;VALUE=DATE": "20190307",
+          "DTEND;VALUE=DATE": "20190307"
+        },
+        {
+          "UID": "20140820161735-566339@reason",
+          "SUMMARY": "Spring Career Fair",
+          "DESCRIPTION": "Meet face-to-face with employer representatives to begin networking, sharing your resumes, and potential of leading to official job interviews.",
+          "LOCATION": "Dahl Centennial Union, Main Lounge",
+          "LAST-MODIFIED": "20181217T084723",
+          "CREATED": "20140820T161735",
+          "DTSTART": "20190307T100000",
+          "DURATION": "PT5H0M0S"
+        },
+        {
+          "UID": "20181004112806-835250@reason",
+          "SUMMARY": "Guest Artist Recital:  Keith Hall, jazz",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20181004T113047",
+          "CREATED": "20181004T112806",
+          "DTSTART": "20190307T193000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180907134401-830840@reason",
+          "SUMMARY": "NCAA III Indoor Championships",
+          "LOCATION": "Reggie Lewis Center - Boston, Mass.",
+          "LAST-MODIFIED": "20180907T135101",
+          "CREATED": "20180907T134401",
+          "DTSTART;VALUE=DATE": "20190308",
+          "DTEND;VALUE=DATE": "20190308",
+          "RRULE": "FREQ=DAILY;UNTIL=20190309T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20180907135809-830883@reason",
+          "SUMMARY": "NCAA III Indoor Championships",
+          "LOCATION": "Reggie Lewis Center - Boston, Mass.",
+          "LAST-MODIFIED": "20180907T135846",
+          "CREATED": "20180907T135809",
+          "DTSTART;VALUE=DATE": "20190308",
+          "DTEND;VALUE=DATE": "20190308",
+          "RRULE": "FREQ=DAILY;UNTIL=20190309T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20181207113215-842952@reason",
+          "SUMMARY": "Preview Day",
+          "LOCATION": "Dahl Centennial Union",
+          "URL": "redirect: https://connect.luther.edu/register/grp-preview-day-3-8-2019",
+          "LAST-MODIFIED": "20181207T115132",
+          "CREATED": "20181207T113215",
+          "DTSTART;VALUE=DATE": "20190308",
+          "DTEND;VALUE=DATE": "20190308"
+        },
+        {
+          "UID": "20180626154937-819619@reason",
+          "SUMMARY": "NCAA III National Championships",
+          "LOCATION": "Roanoke, Virginia",
+          "LAST-MODIFIED": "20180626T155031",
+          "CREATED": "20180626T154937",
+          "DTSTART": "20190308T100000",
+          "DURATION": "PT0H0M0S",
+          "RRULE": "FREQ=DAILY;UNTIL=20190309T235959;INTERVAL=1"
+        },
+        {
+          "UID": "20180813034002-826561@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085508",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190308T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702102153-819937@reason",
+          "SUMMARY": "Faculty Artist Series: Jennaya Robison, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T152328",
+          "CREATED": "20180702T102153",
+          "DTSTART": "20190308T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20181116162644-840406@reason",
+          "SUMMARY": "Gustavus Adolpus College (MN)",
+          "LOCATION": "St. Peter, Minn.",
+          "LAST-MODIFIED": "20181116T164058",
+          "CREATED": "20181116T162644",
+          "DTSTART;VALUE=DATE": "20190309",
+          "DTEND;VALUE=DATE": "20190309"
+        },
+        {
+          "UID": "20181116162716-840408@reason",
+          "SUMMARY": "Macalester College (MN)",
+          "LOCATION": "St. Peter, Minn.",
+          "LAST-MODIFIED": "20181116T164147",
+          "CREATED": "20181116T162716",
+          "DTSTART;VALUE=DATE": "20190309",
+          "DTEND;VALUE=DATE": "20190309"
+        },
+        {
+          "UID": "20180709124902-820512@reason",
+          "SUMMARY": "Jr. Recital: Luke Berkley, french horn",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T152347",
+          "CREATED": "20180709T124902",
+          "DTSTART": "20190309T120000",
+          "DURATION": "PT0H30M0S"
+        },
+        {
+          "UID": "20180927135328-834243@reason",
+          "SUMMARY": "Washington-St. Louis (2x9)",
+          "LOCATION": "St. Louis, Mo.",
+          "LAST-MODIFIED": "20180927T135433",
+          "CREATED": "20180927T135328",
+          "DTSTART": "20190309T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814151650-826834@reason",
+          "SUMMARY": "Augustana (IL) (1x7)",
+          "LOCATION": "Stadium Field, Bradley University, Peoria, Ill.",
+          "LAST-MODIFIED": "20181031T064733",
+          "CREATED": "20180814T151650",
+          "DTSTART": "20190309T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709125513-820517@reason",
+          "SUMMARY": "Jr. Recital: Anna Hug, clarinet",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T152400",
+          "CREATED": "20180709T125513",
+          "DTSTART": "20190309T140000",
+          "DURATION": "PT0H30M0S"
+        },
+        {
+          "UID": "20180907080128-830698@reason",
+          "SUMMARY": "UW-Stevens Point (1x7)",
+          "LOCATION": "Stadium Field, Bradley University, Peoria, Ill.",
+          "LAST-MODIFIED": "20181031T064811",
+          "CREATED": "20180907T080128",
+          "DTSTART": "20190309T153000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702103839-819963@reason",
+          "SUMMARY": "Faculty Artist Series: Evan Mitchell, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T152414",
+          "CREATED": "20180702T103839",
+          "DTSTART": "20190309T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180709125255-820515@reason",
+          "SUMMARY": "Jr. Recital: Grace Huber/Grace Simpson, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T152426",
+          "CREATED": "20180709T125255",
+          "DTSTART": "20190309T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813025357-826378@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150546",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190310T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709124510-820509@reason",
+          "SUMMARY": "Sr. Recital: Garrett O'Connell, oboe",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180924T114914",
+          "CREATED": "20180709T124510",
+          "DTSTART": "20190310T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180927135436-834247@reason",
+          "SUMMARY": "Washington-St. Louis (1x9)",
+          "LOCATION": "St. Louis, Mo.",
+          "LAST-MODIFIED": "20180927T135502",
+          "CREATED": "20180927T135436",
+          "DTSTART": "20190310T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814151748-826836@reason",
+          "SUMMARY": "UW-Stevens Point (1x7)",
+          "LOCATION": "Stadium Field, Bradley University, Peoria, Ill.",
+          "LAST-MODIFIED": "20181031T064928",
+          "CREATED": "20180814T151748",
+          "DTSTART": "20190310T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709130840-820527@reason",
+          "SUMMARY": "Jr. Recital: Mary Flaherty, Maren Olson, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180924T102656",
+          "CREATED": "20180709T130840",
+          "DTSTART": "20190310T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180907080337-830702@reason",
+          "SUMMARY": "Augustana (IL) (1x7)",
+          "LOCATION": "Stadium Field, Bradley University, Peoria, Ill.",
+          "LAST-MODIFIED": "20181031T065020",
+          "CREATED": "20180907T080337",
+          "DTSTART": "20190310T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702104018-819967@reason",
+          "SUMMARY": "Benefactors Organ Recital",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180911T152615",
+          "CREATED": "20180702T104018",
+          "DTSTART": "20190310T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180709125716-820519@reason",
+          "SUMMARY": "Sr. Recital: Mitchell Gage, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153101",
+          "CREATED": "20180709T125716",
+          "DTSTART": "20190310T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813031021-826452@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190310T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826562@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085524",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190311T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180813034002-826563@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085545",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190313T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180927135510-834251@reason",
+          "SUMMARY": "Spring Trip (5 Games)",
+          "LOCATION": "Kino Sports Complex, Tucson, Arizona",
+          "LAST-MODIFIED": "20180927T135743",
+          "CREATED": "20180927T135510",
+          "DTSTART;VALUE=DATE": "20190314",
+          "DTEND;VALUE=DATE": "20190314",
+          "RRULE": "FREQ=DAILY;UNTIL=20190317T000000;INTERVAL=3"
+        },
+        {
+          "UID": "20120913113743-410199@reason",
+          "SUMMARY": "Spring Student Teacher Retreat Day 1",
+          "DESCRIPTION": "Two days in which the current student teachers return to campus to learn, reflect, and discuss student teaching.",
+          "LOCATION": "Baker Commons",
+          "LAST-MODIFIED": "20180612T105252",
+          "CREATED": "20120913T113743",
+          "DTSTART": "20190314T080000",
+          "DURATION": "PT8H0M0S"
+        },
+        {
+          "UID": "20180816113628-827267@reason",
+          "SUMMARY": "Emeriti Colloquium: Marv Slind, \"Growing Older without Growing Up: The Parrothead Life",
+          "LOCATION": "Dahl Centennial Union, Mott Room",
+          "LAST-MODIFIED": "20180816T115139",
+          "CREATED": "20180816T113628",
+          "DTSTART": "20190314T150000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180822171221-827940@reason",
+          "SUMMARY": "Center Stage Series: Goitse",
+          "DESCRIPTION": "\\nForged in Limerick, Ireland, multi-award-winning Goitse leads a new generation of traditional Irish ensembles. Their gripping rhythm section sets a powerful backdrop for high-octane fiddling, virtuosic piano and accordion, and angelic vocals, creating music that’s brimming with energy and creative zeal.",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "URL": "https://tickets.luther.edu/Online/Article/goitse",
+          "LAST-MODIFIED": "20180822T172102",
+          "CREATED": "20180822T171221",
+          "DTSTART": "20190314T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181207115138-842958@reason",
+          "SUMMARY": "Music Scholarship Audition Day",
+          "LOCATION": "Jenson-Noble Hall of Music",
+          "URL": "redirect: https://connect.luther.edu/register/grp-audition-day-spring-2019",
+          "LAST-MODIFIED": "20181207T115259",
+          "CREATED": "20181207T115138",
+          "DTSTART;VALUE=DATE": "20190315",
+          "DTEND;VALUE=DATE": "20190315"
+        },
+        {
+          "UID": "20140903120925-569419@reason",
+          "SUMMARY": "Spring Student Teacher Retreat Day 2",
+          "DESCRIPTION": "Two days in which the current student teachers return to campus to learn, reflect, and discuss student teaching.",
+          "LOCATION": "Baker Commons",
+          "LAST-MODIFIED": "20180612T105309",
+          "CREATED": "20140903T120925",
+          "DTSTART": "20190315T080000",
+          "DURATION": "PT6H0M0S"
+        },
+        {
+          "UID": "20180813034002-826564@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085603",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190315T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180823145432-828100@reason",
+          "SUMMARY": "Twin Cities Lunch Connection Luncheon",
+          "LOCATION": "Roseville Lutheran Church",
+          "URL": "https://www.luther.edu/alumni/events/lunch-connection/",
+          "LAST-MODIFIED": "20180823T145601",
+          "CREATED": "20180823T145432",
+          "DTSTART": "20190315T110000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180522142510-816489@reason",
+          "SUMMARY": "Theatre Performance: Appropriate",
+          "DESCRIPTION": "Runs March 15-17",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180830T125022",
+          "CREATED": "20180522T142510",
+          "DTSTART": "20190315T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180522142932-816491@reason",
+          "SUMMARY": "Theatre Performance: Appropriate",
+          "DESCRIPTION": "Runs March 15-17",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180830T125008",
+          "CREATED": "20180522T142932",
+          "DTSTART": "20190316T133000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709095724-820426@reason",
+          "SUMMARY": "Sr. Recital: C.J. Heck, piano",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T151137",
+          "CREATED": "20180709T095724",
+          "DTSTART": "20190316T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180821103703-827653@reason",
+          "SUMMARY": "Sr/Jr Recital: Janet Irankunda/Abby Saner, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153126",
+          "CREATED": "20180821T103703",
+          "DTSTART": "20190316T160000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180702104223-819970@reason",
+          "SUMMARY": "Faculty Artist Series: Igor Kalnin",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153153",
+          "CREATED": "20180702T104223",
+          "DTSTART": "20190316T190000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180522143109-816496@reason",
+          "SUMMARY": "Theatre Performance: Appropriate",
+          "DESCRIPTION": "Runs March 15-17",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180830T124956",
+          "CREATED": "20180522T143109",
+          "DTSTART": "20190316T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826379@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150532",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190317T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702104343-819972@reason",
+          "SUMMARY": "Spring Oratorio",
+          "DESCRIPTION": "Luther College Music Department presents the Spring Oratorio Concert featuring the Nordic Choir, Symphony Orchestra, Collegiate Choir, and Cathedral Choir. The program will include the Poulenc Gloria and Leonard Bernstein's Chichester Psalms in commemoration of his 100th birthday.",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181219T104928",
+          "CREATED": "20180702T104343",
+          "DTSTART": "20190317T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180522143201-816498@reason",
+          "SUMMARY": "Theatre Performance: Appropriate",
+          "DESCRIPTION": "Runs March 15-17",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180830T124944",
+          "CREATED": "20180522T143201",
+          "DTSTART": "20190317T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813031021-826453@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190317T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826565@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085642",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190318T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180814151823-826838@reason",
+          "SUMMARY": "St. Mary's University (2x7)",
+          "LOCATION": "Winona, Minn.",
+          "LAST-MODIFIED": "20180814T151903",
+          "CREATED": "20180814T151823",
+          "DTSTART": "20190318T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180822142339-827821@reason",
+          "SUMMARY": "Sihler Lecture: Deborah Smith Pollard,  “`When I Get to Heaven, I’m Gonna Jump and Shout’:  Female Artists and the Life-Changing Song `Oh Happy Day’”",
+          "DESCRIPTION": "In 1968, the Northern California State Choir recorded the album Let Us Go into the House of the Lord with plans to sell 500 copies at local churches. However, the cut “O Happy Day,” an arrangement of the 18th century hymn, gained such popularity that it was released internationally in 1969; with sales of over seven million copies, it remains the biggest-selling gospel single in history.\\nWhile many know the name of choir director/arranger Edwin Hawkins, few know that several female artists contributed to, built upon, or were inspired by the song. This lecture’s focus will be on such significant performers as: the original lead singer, Dorothy Combs Morrison, whose vocal range and quality as well as her lyrical additions were a major part of the song’s success; Tramaine Hawkins, a member of the choir in 1968, who became one of the most iconic gospel singers of the last half century; and Vickie Mack Lataillade who was so captivated by Hawkins’ contemporary gospel sound that she founded Gospo Centric Records and signed such chart-topping artists as Kirk Franklin and\\nTrin-I-Tee 5:7.  Other women whose careers are connected to this song in some way include folk singer/activist Joan Baez, gospel legend Dorothy Norwood, and international Evangelist Gwendolyn Reid.\\nThis presentation will examine the extent to which these women expanded the popularity of the song and helped to challenge the prevailing boundaries regarding who can perform gospel music and where it can be performed as well as how one should look and sound while doing so.",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20181218T083306",
+          "CREATED": "20180822T142339",
+          "DTSTART": "20190319T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180605083349-817671@reason",
+          "SUMMARY": "NCAA III National Swimming & Diving Championships",
+          "LOCATION": "Greensboro, N.C.",
+          "LAST-MODIFIED": "20180605T083439",
+          "CREATED": "20180605T083349",
+          "DTSTART;VALUE=DATE": "20190320",
+          "DTEND;VALUE=DATE": "20190320",
+          "RRULE": "FREQ=DAILY;UNTIL=20190323T000000;INTERVAL=3"
+        },
+        {
+          "UID": "20180605084454-817699@reason",
+          "SUMMARY": "NCAA III National Swimming & Diving Championships",
+          "LOCATION": "Greensboro, N.C.",
+          "LAST-MODIFIED": "20180605T084531",
+          "CREATED": "20180605T084454",
+          "DTSTART;VALUE=DATE": "20190320",
+          "DTEND;VALUE=DATE": "20190320",
+          "RRULE": "FREQ=DAILY;UNTIL=20190323T000000;INTERVAL=3"
+        },
+        {
+          "UID": "20180813034002-826566@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085659",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190320T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20181116161222-840372@reason",
+          "SUMMARY": "Stevens Institute of Technology (NJ)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T161323",
+          "CREATED": "20181116T161222",
+          "DTSTART": "20190321T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116162756-840410@reason",
+          "SUMMARY": "Stevens Institute of Technology (NJ)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T162824",
+          "CREATED": "20181116T162756",
+          "DTSTART": "20190321T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180503092839-813742@reason",
+          "SUMMARY": "Evening Prayer Service",
+          "LOCATION": "Goodyear, AZ",
+          "LAST-MODIFIED": "20180503T092922",
+          "CREATED": "20180503T092839",
+          "DTSTART;VALUE=DATE": "20190322",
+          "DTEND;VALUE=DATE": "20190322"
+        },
+        {
+          "UID": "20181005151458-835716@reason",
+          "SUMMARY": "End of first half of semester",
+          "LAST-MODIFIED": "20181005T151533",
+          "CREATED": "20181005T151458",
+          "DTSTART;VALUE=DATE": "20190322",
+          "DTEND;VALUE=DATE": "20190322"
+        },
+        {
+          "UID": "20180813034002-826567@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T085714",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190322T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20181116161328-840374@reason",
+          "SUMMARY": "Calvin College (MI)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T161419",
+          "CREATED": "20181116T161328",
+          "DTSTART": "20190322T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116162829-840412@reason",
+          "SUMMARY": "Calvin College (MI)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T162854",
+          "CREATED": "20181116T162829",
+          "DTSTART": "20190322T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180503092927-813744@reason",
+          "SUMMARY": "14th Annual Kent Finanger Golf Outing",
+          "LOCATION": "Goodyear, AZ",
+          "LAST-MODIFIED": "20180503T093310",
+          "CREATED": "20180503T092927",
+          "DTSTART;VALUE=DATE": "20190323",
+          "DTEND;VALUE=DATE": "20190323"
+        },
+        {
+          "UID": "20180814151907-826840@reason",
+          "SUMMARY": "PFX Spring Games (10 Games)",
+          "LOCATION": "Clermont, Fla.",
+          "LAST-MODIFIED": "20180907T080537",
+          "CREATED": "20180814T151907",
+          "DTSTART;VALUE=DATE": "20190323",
+          "DTEND;VALUE=DATE": "20190323",
+          "RRULE": "FREQ=DAILY;UNTIL=20190328T000000;INTERVAL=5"
+        },
+        {
+          "UID": "20181005151548-835719@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T151733",
+          "CREATED": "20181005T151548",
+          "DTSTART;VALUE=DATE": "20190323",
+          "DTEND;VALUE=DATE": "20190323"
+        },
+        {
+          "UID": "20181116162900-840414@reason",
+          "SUMMARY": "Hope College (MI)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T163935",
+          "CREATED": "20181116T162900",
+          "DTSTART": "20190323T110000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180927135754-834254@reason",
+          "SUMMARY": "St. John's University (MN) (2x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T135935",
+          "CREATED": "20180927T135754",
+          "DTSTART": "20190323T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181003081711-835017@reason",
+          "SUMMARY": "Concert Band Tour: Maple Grove, Minn.",
+          "DESCRIPTION": "As part of their 2019 Tour, the Luther College Concert Band will perform at Advent Lutheran Church, 9475 Jefferson Highway, Maple Grove, Minnesota. The concert is free and open to the public. A freewill offering will be taken.",
+          "LOCATION": "Advent Lutheran Churh, Maple Grove, Minnesota",
+          "LAST-MODIFIED": "20181227T091537",
+          "CREATED": "20181003T081711",
+          "DTSTART": "20190323T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181005031733-835733@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190324",
+          "DTEND;VALUE=DATE": "20190324"
+        },
+        {
+          "UID": "20180927135851-834259@reason",
+          "SUMMARY": "St. John's University (MN) (1x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T135927",
+          "CREATED": "20180927T135851",
+          "DTSTART": "20190324T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005031733-835734@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190325",
+          "DTEND;VALUE=DATE": "20190325"
+        },
+        {
+          "UID": "20181116161424-840376@reason",
+          "SUMMARY": "George Fox University (OR)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T161515",
+          "CREATED": "20181116T161424",
+          "DTSTART;VALUE=DATE": "20190325",
+          "DTEND;VALUE=DATE": "20190325"
+        },
+        {
+          "UID": "20181003082922-835024@reason",
+          "SUMMARY": "Concert Band Tour: Green Valley, Arizona",
+          "DESCRIPTION": "As part of their Southwest Tour, the Luther College Concert Band will give a concert at the Community Performance and Art Center, 1250 W. Continental Road, Green Valley, Arizona. Tickets are $20 in advance and $25 at the door. More information at http://www.performingartscenter.org/programs/program-series/",
+          "LOCATION": "Community Performance and Art Center, Green Valley, Arizona",
+          "LAST-MODIFIED": "20181003T090131",
+          "CREATED": "20181003T082922",
+          "DTSTART": "20190325T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005031733-835735@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190326",
+          "DTEND;VALUE=DATE": "20190326"
+        },
+        {
+          "UID": "20181116161701-840380@reason",
+          "SUMMARY": "Whitworth University (WA)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T161739",
+          "CREATED": "20181116T161701",
+          "DTSTART;VALUE=DATE": "20190326",
+          "DTEND;VALUE=DATE": "20190326"
+        },
+        {
+          "UID": "20181116163033-840418@reason",
+          "SUMMARY": "Whitworth University (WA)",
+          "LOCATION": "Orlando, Fla.",
+          "LAST-MODIFIED": "20181116T163102",
+          "CREATED": "20181116T163033",
+          "DTSTART;VALUE=DATE": "20190326",
+          "DTEND;VALUE=DATE": "20190326"
+        },
+        {
+          "UID": "20181003083753-835029@reason",
+          "SUMMARY": "Concert Band Tour:  Paradise Valley, Arizona",
+          "DESCRIPTION": "As part of their Southwest Tour, the Luther College Concert Band will perform at Ascension Lutheran Church, 7100 N. Mockingbird Lane, Paradise Valley, Arizona. The concert is free and open to the public. A freewill offering will be taken.",
+          "LOCATION": "Ascension Lutheran Church, Paradise Valley, AZ",
+          "LAST-MODIFIED": "20181218T141233",
+          "CREATED": "20181003T083753",
+          "DTSTART": "20190326T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181005031733-835736@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190327",
+          "DTEND;VALUE=DATE": "20190327"
+        },
+        {
+          "UID": "20180927135940-834264@reason",
+          "SUMMARY": "UW-La Crosse (1x9)",
+          "LOCATION": "La Crosse, Wis.",
+          "LAST-MODIFIED": "20180927T140014",
+          "CREATED": "20180927T135940",
+          "DTSTART": "20190327T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181003084015-835032@reason",
+          "SUMMARY": "Concert Band Tour: Sun City West, Arizona",
+          "DESCRIPTION": "As part of their Southwest Tour, the Luther College Concert Band will perform at Lord of Life Lutheran Church, 13724 West Meeker, Sun City West, Arizona. The concert is free and open to the public. A freewill offering will be taken.",
+          "LOCATION": "Lord of Life Lutheran Church, Sun City West, AZ",
+          "LAST-MODIFIED": "20181003T090030",
+          "CREATED": "20181003T084015",
+          "DTSTART": "20190327T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181005031733-835737@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190328",
+          "DTEND;VALUE=DATE": "20190328"
+        },
+        {
+          "UID": "20181003084246-835034@reason",
+          "SUMMARY": "Concert Band Tour:  Palm Desert, California",
+          "DESCRIPTION": "As part of their Southwest Tour, the Luther College Concert Band will perform at Palm Desert High School, 74910 Aztec Road, Palm Desert, California. The concert is free and open to the public. A freewill offering will be taken.",
+          "LOCATION": "Palm Desert High School, Palm Desert, CA",
+          "LAST-MODIFIED": "20181003T090003",
+          "CREATED": "20181003T084246",
+          "DTSTART": "20190328T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20181005031733-835738@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190329",
+          "DTEND;VALUE=DATE": "20190329"
+        },
+        {
+          "UID": "20180927140021-834266@reason",
+          "SUMMARY": "University of Dubuque (1x9)",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180927T140052",
+          "CREATED": "20180927T140021",
+          "DTSTART": "20190329T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005031733-835739@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190330",
+          "DTEND;VALUE=DATE": "20190330"
+        },
+        {
+          "UID": "20180927140055-834268@reason",
+          "SUMMARY": "University of Dubuque (2x9)",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180927T140132",
+          "CREATED": "20180927T140055",
+          "DTSTART": "20190330T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181018165024-836880@reason",
+          "SUMMARY": "Concert Band Tour:  Solana Beach, California",
+          "DESCRIPTION": "As part of their Southwest tour, the Luther College Concert Band will give a concert at Calvary Lutheran Church, 424 Via de la Valle, Solana Beach, California.  The concert is free and open to the public.  A freewill offering will be taken.",
+          "LOCATION": "Calvary Lutheran Church, Solana Beach, CA",
+          "LAST-MODIFIED": "20181227T091517",
+          "CREATED": "20181018T165024",
+          "DTSTART": "20190330T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005031733-835740@reason",
+          "SUMMARY": "Spring Break",
+          "LAST-MODIFIED": "20181005T031733",
+          "CREATED": "20181005T031733",
+          "DTSTART;VALUE=DATE": "20190331",
+          "DTEND;VALUE=DATE": "20190331"
+        },
+        {
+          "UID": "20180813034002-826571@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090042",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190401T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180927140138-834270@reason",
+          "SUMMARY": "Wartburg College (2x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140218",
+          "CREATED": "20180927T140138",
+          "DTSTART": "20190402T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814152036-826842@reason",
+          "SUMMARY": "Loras College (2x7)",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20180814T153641",
+          "CREATED": "20180814T152036",
+          "DTSTART": "20190402T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180911155227-831545@reason",
+          "SUMMARY": "Paideia Text & Issues Lecture: Marie Drews, \"The World on a Plate:  Ambivalent Encounters at the American Table\"",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20180911T155401",
+          "CREATED": "20180911T155227",
+          "DTSTART": "20190402T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180914092721-831893@reason",
+          "SUMMARY": "GRE Testing",
+          "DESCRIPTION": "Questions?\\nContact Vanessa Wiest\\n(563) 387-1330",
+          "LOCATION": "F.W. Olin Building, Room 112",
+          "LAST-MODIFIED": "20180914T092837",
+          "CREATED": "20180914T092721",
+          "DTSTART": "20190403T080000",
+          "DURATION": "PT4H0M0S"
+        },
+        {
+          "UID": "20180813034002-826572@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090056",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190403T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180904205509-830282@reason",
+          "SUMMARY": "Gjerset Lecture",
+          "LOCATION": "Center for Faith and Life, Recital Hall",
+          "LAST-MODIFIED": "20180904T205901",
+          "CREATED": "20180904T205509",
+          "DTSTART": "20190403T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116163212-840422@reason",
+          "SUMMARY": "University of Dubuque",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20181116T163245",
+          "CREATED": "20181116T163212",
+          "DTSTART": "20190404T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116163249-840424@reason",
+          "SUMMARY": "Loras College",
+          "LOCATION": "Dubuque, Iowa",
+          "LAST-MODIFIED": "20181116T163314",
+          "CREATED": "20181116T163249",
+          "DTSTART": "20190404T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702104721-819974@reason",
+          "SUMMARY": "Chamber Music Recital",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153228",
+          "CREATED": "20180702T104721",
+          "DTSTART": "20190404T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034002-826573@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090126",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190405T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180927140225-834272@reason",
+          "SUMMARY": "Loras College (1x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140301",
+          "CREATED": "20180927T140225",
+          "DTSTART": "20190405T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612125630-818412@reason",
+          "SUMMARY": "Collegiate Chorale Tour:  Albert Lea, MN",
+          "DESCRIPTION": "Collegiate Chorale concert in Albert Lea, MN",
+          "LOCATION": "Albert Lea, Minnesota",
+          "LAST-MODIFIED": "20181003T081143",
+          "CREATED": "20180612T125630",
+          "DTSTART": "20190405T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180521135242-816351@reason",
+          "SUMMARY": "Theatre Performance: Student Directed One-Act Play Festival",
+          "DESCRIPTION": "A festival of one-act plays directed by current Luther students.",
+          "LAST-MODIFIED": "20180829T134559",
+          "CREATED": "20180521T135242",
+          "DTSTART": "20190405T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180503093042-813746@reason",
+          "SUMMARY": "Alumni Council Meeting",
+          "LOCATION": "Luther College",
+          "LAST-MODIFIED": "20180503T093241",
+          "CREATED": "20180503T093042",
+          "DTSTART;VALUE=DATE": "20190406",
+          "DTEND;VALUE=DATE": "20190406"
+        },
+        {
+          "UID": "20180907134455-830842@reason",
+          "SUMMARY": "Norse Relays",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180907T134526",
+          "CREATED": "20180907T134455",
+          "DTSTART": "20190406T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907140021-830885@reason",
+          "SUMMARY": "Norse Relays",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180907T140045",
+          "CREATED": "20180907T140021",
+          "DTSTART": "20190406T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180613094316-818511@reason",
+          "SUMMARY": "Cathedral Choir Tour:  Spencer, WI",
+          "DESCRIPTION": "Cathedral 2019 tour - workshop and performance in Spencer",
+          "LOCATION": "Spencer, WI",
+          "LAST-MODIFIED": "20181003T075902",
+          "CREATED": "20180613T094316",
+          "DTSTART": "20190406T110000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180911141528-831373@reason",
+          "SUMMARY": "Sr. Recital:  Alexander Lapinski, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T141721",
+          "CREATED": "20180911T141528",
+          "DTSTART": "20190406T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180927140305-834274@reason",
+          "SUMMARY": "Loras College (2x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140337",
+          "CREATED": "20180927T140305",
+          "DTSTART": "20190406T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116161744-840382@reason",
+          "SUMMARY": "Carleton College",
+          "LOCATION": "Northfield, Minn.",
+          "LAST-MODIFIED": "20181116T161814",
+          "CREATED": "20181116T161744",
+          "DTSTART": "20190406T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814152131-826845@reason",
+          "SUMMARY": "Buena Vista University (2x7)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180814T153617",
+          "CREATED": "20180814T152131",
+          "DTSTART": "20190406T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180521135539-816354@reason",
+          "SUMMARY": "Theatre Performance: Student Directed One-Act Play Festival",
+          "DESCRIPTION": "A festival of one-act plays directed by current Luther students.",
+          "LAST-MODIFIED": "20180829T134551",
+          "CREATED": "20180521T135539",
+          "DTSTART": "20190406T133000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709132005-820535@reason",
+          "SUMMARY": "Sr. Recital: Jarret Quale, viola",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153252",
+          "CREATED": "20180709T132005",
+          "DTSTART": "20190406T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20181116163318-840426@reason",
+          "SUMMARY": "Carleton College (MN)",
+          "LOCATION": "Northfield, Minn.",
+          "LAST-MODIFIED": "20181116T164024",
+          "CREATED": "20181116T163318",
+          "DTSTART": "20190406T153000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709131510-820531@reason",
+          "SUMMARY": "Jr. Recital: Kelly Grba, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153306",
+          "CREATED": "20180709T131510",
+          "DTSTART": "20190406T160000",
+          "DURATION": "PT0H30M0S"
+        },
+        {
+          "UID": "20180612125913-818414@reason",
+          "SUMMARY": "Collegiate Chorale Tour:  Roseville, MN",
+          "DESCRIPTION": "Collegiate Chorale 2019 Tour",
+          "LOCATION": "Roseville, Minnesota",
+          "LAST-MODIFIED": "20181003T080849",
+          "CREATED": "20180612T125913",
+          "DTSTART": "20190406T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612130820-818422@reason",
+          "SUMMARY": "Cathedral Choir Tour:  Baraboo, WI",
+          "DESCRIPTION": "Cathedral Choir Wisconsin tour 2019",
+          "LOCATION": "Al. Ringling Theatre, Baraboo, Wisconsin",
+          "LAST-MODIFIED": "20181005T130414",
+          "CREATED": "20180612T130820",
+          "DTSTART": "20190406T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180822172111-827943@reason",
+          "SUMMARY": "Center Stage Series: EVOLUTION",
+          "DESCRIPTION": "\\nWriter and performer Patricia Buckley plays three family members coping with the mysterious mental illness of the family’s youngest daughter in this masterpiece of messy human emotions shot through with moments of levity and humor. By turns suspenseful, lyrical, hilarious, and haunting—with a stunning set and ethereal soundtrack—Evolution challenges our assumptions about progress and change.",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "URL": "https://tickets.luther.edu/Online/Article/evolution",
+          "LAST-MODIFIED": "20180822T172449",
+          "CREATED": "20180822T172111",
+          "DTSTART": "20190406T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116161854-840386@reason",
+          "SUMMARY": "Grinnell College",
+          "LOCATION": "Grinnell, Iowa",
+          "LAST-MODIFIED": "20181116T161921",
+          "CREATED": "20181116T161854",
+          "DTSTART;VALUE=DATE": "20190407",
+          "DTEND;VALUE=DATE": "20190407"
+        },
+        {
+          "UID": "20181116163352-840428@reason",
+          "SUMMARY": "Grinnell College",
+          "LOCATION": "Grinnell, Iowa",
+          "LAST-MODIFIED": "20181116T163411",
+          "CREATED": "20181116T163352",
+          "DTSTART;VALUE=DATE": "20190407",
+          "DTEND;VALUE=DATE": "20190407"
+        },
+        {
+          "UID": "20180612131253-818427@reason",
+          "SUMMARY": "Worship Services with Cathedral Choir:  Madison, WI",
+          "DESCRIPTION": "Cathedral Choir Wisconsin tour 2019",
+          "LOCATION": "Madison, Wisconsin",
+          "LAST-MODIFIED": "20180613T094253",
+          "CREATED": "20180612T131253",
+          "DTSTART": "20190407T083000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612130504-818420@reason",
+          "SUMMARY": "Worship Services with Collegiate Chorale: Edina, MN",
+          "DESCRIPTION": "Collegiate Midwest Tour - church services",
+          "LOCATION": "Edina, Minnesota",
+          "LAST-MODIFIED": "20180613T094234",
+          "CREATED": "20180612T130504",
+          "DTSTART": "20190407T084500",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826382@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150513",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190407T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709131324-820529@reason",
+          "SUMMARY": "Jr. Recital: Xavier Conzet/Noah Lauer, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T143340",
+          "CREATED": "20180709T131324",
+          "DTSTART": "20190407T120000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180521135645-816356@reason",
+          "SUMMARY": "Theatre Performance: Student Directed One-Act Play Festival",
+          "DESCRIPTION": "A festival of one-act plays directed by current Luther students.",
+          "LAST-MODIFIED": "20180829T134541",
+          "CREATED": "20180521T135645",
+          "DTSTART": "20190407T133000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709133127-820543@reason",
+          "SUMMARY": "Sr./Jr. Recital: James Sinclair/Tom Perkins, voice/percussion",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153535",
+          "CREATED": "20180709T133127",
+          "DTSTART": "20190407T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180612131658-818432@reason",
+          "SUMMARY": "Cathedral Choir Tour: Stoughton, WI",
+          "DESCRIPTION": "Cathedral Choir 2019 Wisconsin Tour",
+          "LOCATION": "Stoughton High School, Stoughton, Wisconsin",
+          "LAST-MODIFIED": "20181005T130028",
+          "CREATED": "20180612T131658",
+          "DTSTART": "20190407T143000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612130147-818417@reason",
+          "SUMMARY": "Collegiate Chorale Tour:  Rochester, MN",
+          "DESCRIPTION": "Collegiate Chorale Midwest Tour",
+          "LOCATION": "Rochester, Minnesota",
+          "LAST-MODIFIED": "20181003T080104",
+          "CREATED": "20180612T130147",
+          "DTSTART": "20190407T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709132746-820539@reason",
+          "SUMMARY": "Sr. Recital: Gabrielle Bruns, viola",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153555",
+          "CREATED": "20180709T132746",
+          "DTSTART": "20190407T160000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180911142307-831382@reason",
+          "SUMMARY": "Sr. Recital:  Hailey Mork/Brian Murman, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20181010T152745",
+          "CREATED": "20180911T142307",
+          "DTSTART": "20190407T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813031021-826456@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190407T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181207115522-842963@reason",
+          "SUMMARY": "Admitted Student Visit Day",
+          "LOCATION": "Dahl Centennial Union",
+          "URL": "Redirect: https://connect.luther.edu/portal/group?id=95c7216c-c009-4dce-8028-eddeaef2474b",
+          "LAST-MODIFIED": "20181207T115624",
+          "CREATED": "20181207T115522",
+          "DTSTART;VALUE=DATE": "20190408",
+          "DTEND;VALUE=DATE": "20190408"
+        },
+        {
+          "UID": "20180813034002-826574@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090224",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190408T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20181005151745-835742@reason",
+          "SUMMARY": "Last day to withdraw from full semester class with \"W\" and last day to drop Senior Projects without record",
+          "LAST-MODIFIED": "20181005T151840",
+          "CREATED": "20181005T151745",
+          "DTSTART;VALUE=DATE": "20190409",
+          "DTEND;VALUE=DATE": "20190409"
+        },
+        {
+          "UID": "20181116163415-840430@reason",
+          "SUMMARY": "Wartburg College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20181116T163443",
+          "CREATED": "20181116T163415",
+          "DTSTART": "20190409T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180927140342-834276@reason",
+          "SUMMARY": "Wartburg College (1x9)",
+          "LOCATION": "Waverly, Iowa",
+          "LAST-MODIFIED": "20180927T140422",
+          "CREATED": "20180927T140342",
+          "DTSTART": "20190409T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702105252-819976@reason",
+          "SUMMARY": "Concert Band Homecoming Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T143235",
+          "CREATED": "20180702T105252",
+          "DTSTART": "20190409T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034002-826575@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090251",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190410T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180814152722-826851@reason",
+          "SUMMARY": "Simpson College (2x7)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180814T153657",
+          "CREATED": "20180814T152722",
+          "DTSTART": "20190410T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702105456-819978@reason",
+          "SUMMARY": "Cathedral Choir Homecoming Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T143316",
+          "CREATED": "20180702T105456",
+          "DTSTART": "20190410T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180816114206-827273@reason",
+          "SUMMARY": "Emeriti Colloquium: Alan Lerstrom, \"Relational Dialectics\"",
+          "LOCATION": "Dahl Centennial Union, Mott Room",
+          "LAST-MODIFIED": "20180816T114654",
+          "CREATED": "20180816T114206",
+          "DTSTART": "20190411T150000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180702105705-819980@reason",
+          "SUMMARY": "Collegiate Choir Homecoming Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T143346",
+          "CREATED": "20180702T105705",
+          "DTSTART": "20190411T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20181207115302-842961@reason",
+          "SUMMARY": "Preview Day",
+          "LOCATION": "Dahl Centennial Union",
+          "URL": "Redirect: https://connect.luther.edu/register/grp-preview-day-4-12-2019",
+          "LAST-MODIFIED": "20181207T115455",
+          "CREATED": "20181207T115302",
+          "DTSTART;VALUE=DATE": "20190412",
+          "DTEND;VALUE=DATE": "20190412"
+        },
+        {
+          "UID": "20180813034002-826576@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090312",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190412T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180927140427-834278@reason",
+          "SUMMARY": "Central College (1x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140509",
+          "CREATED": "20180927T140427",
+          "DTSTART": "20190412T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180612112846-818362@reason",
+          "SUMMARY": "Jazz Orchestra Tour:  Sioux Falls, SD",
+          "DESCRIPTION": "As part of their Midwest Tour, the Luther College Jazz Orchestra will give a concert at Roosevelt High School, 6600 W. 41st Street, Sioux Falls. The concert is free and open to the public. A freewill offering will be taken.",
+          "LOCATION": "Roosevelt High School, Sioux Falls, SD",
+          "LAST-MODIFIED": "20181005T125400",
+          "CREATED": "20180612T112846",
+          "DTSTART": "20190412T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180822172502-827946@reason",
+          "SUMMARY": "Center Stage Series: The Ukulele Orchestra of Great Britain",
+          "DESCRIPTION": "\\nThe much-beloved Ukulele Orchestra of Great Britain returns to Luther to prove that the ukulele may be small, but it sure is mighty. From Tchaikovsky to Nirvana via Otis Redding and spaghetti western soundtracks, the orchestra takes its audience on a world tour through its unexpectedly virtuosic playing and singing—with a bit of whistling thrown in!",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "URL": "https://tickets.luther.edu/Online/Article/ukulele-orchestra",
+          "LAST-MODIFIED": "20180822T172959",
+          "CREATED": "20180822T172502",
+          "DTSTART": "20190412T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907134531-830844@reason",
+          "SUMMARY": "Mount Mercy Open",
+          "LOCATION": "Mount Mercy University - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180907T135047",
+          "CREATED": "20180907T134531",
+          "DTSTART;VALUE=DATE": "20190413",
+          "DTEND;VALUE=DATE": "20190413"
+        },
+        {
+          "UID": "20180907140051-830888@reason",
+          "SUMMARY": "Mount Mercy Open",
+          "LOCATION": "Mount Mercy University - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180907T140111",
+          "CREATED": "20180907T140051",
+          "DTSTART;VALUE=DATE": "20190413",
+          "DTEND;VALUE=DATE": "20190413"
+        },
+        {
+          "UID": "20181116161819-840384@reason",
+          "SUMMARY": "St. Mary's University",
+          "LOCATION": "Winona Tennis Center - Winona, Minn.",
+          "LAST-MODIFIED": "20181119T092547",
+          "CREATED": "20181116T161819",
+          "DTSTART;VALUE=DATE": "20190413",
+          "DTEND;VALUE=DATE": "20190413"
+        },
+        {
+          "UID": "20181116161931-840388@reason",
+          "SUMMARY": "UW-Superior",
+          "LOCATION": "Winona Tennis Center - Winona, Minn.",
+          "LAST-MODIFIED": "20181119T092532",
+          "CREATED": "20181116T161931",
+          "DTSTART;VALUE=DATE": "20190413",
+          "DTEND;VALUE=DATE": "20190413"
+        },
+        {
+          "UID": "20181116163448-840432@reason",
+          "SUMMARY": "St. Mary's University (MN)",
+          "LOCATION": "Winona Tennis Center - Winona, Minn.",
+          "LAST-MODIFIED": "20181119T092627",
+          "CREATED": "20181116T163448",
+          "DTSTART;VALUE=DATE": "20190413",
+          "DTEND;VALUE=DATE": "20190413"
+        },
+        {
+          "UID": "20181116163520-840434@reason",
+          "SUMMARY": "UW-Superior",
+          "LOCATION": "Winona Tennis Center - Winona, Minn.",
+          "LAST-MODIFIED": "20181119T092611",
+          "CREATED": "20181116T163520",
+          "DTSTART;VALUE=DATE": "20190413",
+          "DTEND;VALUE=DATE": "20190413"
+        },
+        {
+          "UID": "20180904212821-830285@reason",
+          "SUMMARY": "Dance Marathon",
+          "LOCATION": "Regents Center",
+          "LAST-MODIFIED": "20180904T213606",
+          "CREATED": "20180904T212821",
+          "DTSTART": "20190413T100000",
+          "DURATION": "PT13H0M0S"
+        },
+        {
+          "UID": "20180709131840-820533@reason",
+          "SUMMARY": "Sr. Recital: Catelyn Janda, viola",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153615",
+          "CREATED": "20180709T131840",
+          "DTSTART": "20190413T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180927140513-834280@reason",
+          "SUMMARY": "Central College (2x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140542",
+          "CREATED": "20180927T140513",
+          "DTSTART": "20190413T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814152801-826854@reason",
+          "SUMMARY": "Wartburg College (2x7)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180814T153708",
+          "CREATED": "20180814T152801",
+          "DTSTART": "20190413T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709133752-820545@reason",
+          "SUMMARY": "Jr. Recital: Michaela Phillips/Leah Wittenberg, voice, horn",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153636",
+          "CREATED": "20180709T133752",
+          "DTSTART": "20190413T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180709134321-820549@reason",
+          "SUMMARY": "Brudos Family Recital: Katherine Stuelke, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153649",
+          "CREATED": "20180709T134321",
+          "DTSTART": "20190413T160000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180612113026-818364@reason",
+          "SUMMARY": "Jazz Orchestra Tour:  Waconia, MN",
+          "DESCRIPTION": "As part of their Midwest Tour, the Luther College Jazz Orchestra will perform at Waconia High School on Saturday, April 13, 2019 at 7:00 p.m.  The concert is free and open to the public.  A freewill offering will be taken.",
+          "LOCATION": "Waconia, Minnesota",
+          "LAST-MODIFIED": "20181005T125155",
+          "CREATED": "20180612T113026",
+          "DTSTART": "20190413T190000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180709130354-820523@reason",
+          "SUMMARY": "Jr. Recital: Emily Stifter/Colin Cosgrove, horn/voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T142200",
+          "CREATED": "20180709T130354",
+          "DTSTART": "20190413T190000",
+          "DURATION": "PT0H30M0S"
+        },
+        {
+          "UID": "20180709134150-820547@reason",
+          "SUMMARY": "Sr. Recital: Alexander Lapinkski, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153706",
+          "CREATED": "20180709T134150",
+          "DTSTART": "20190413T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180522143714-816509@reason",
+          "SUMMARY": "Performance: Dance and Theatre Senior Projects",
+          "DESCRIPTION": "April 13.",
+          "LAST-MODIFIED": "20180522T144444",
+          "CREATED": "20180522T143714",
+          "DTSTART": "20190413T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181018164553-836878@reason",
+          "SUMMARY": "Worship Services with Jazz Orchestra:  Maple Grove, MN",
+          "DESCRIPTION": "The Luther College Jazz Orchestra will participate in morning worship services at 9:45 and 11:00 a.m. at Lord of Life Lutheran Church, 7401 County Road 101, Maple Grove, Minnesota.",
+          "LOCATION": "Lord of Life Lutheran Church, Maple Grove, MN",
+          "LAST-MODIFIED": "20181018T164902",
+          "CREATED": "20181018T164553",
+          "DTSTART": "20190414T094500",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813025357-826383@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150501",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190414T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709135346-820555@reason",
+          "SUMMARY": "Sr. Recital: Elyse Grothaus/Tyler Zeimet, horn/clarinet",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T153741",
+          "CREATED": "20180709T135346",
+          "DTSTART": "20190414T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180709135044-820551@reason",
+          "SUMMARY": "Sr. Recital: Lauren Bennati, flute",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154130",
+          "CREATED": "20180709T135044",
+          "DTSTART": "20190414T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20181026124234-837881@reason",
+          "SUMMARY": "Jazz Orchestra Tour:  St. Paul, MN",
+          "DESCRIPTION": "As part of their Midwest Tour, the Luther College Jazz Orchestra will give a concert on Sunday, April 14, at 3:30 p.m. at Pilgrim Lutheran Church, 1935 St. Clair Ave., St. Paul.  The concert is free and open to the public. ",
+          "LOCATION": "Pilgrim Lutheran Church, St. Paul, Minn.",
+          "LAST-MODIFIED": "20181026T124904",
+          "CREATED": "20181026T124234",
+          "DTSTART": "20190414T153000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180709135516-820557@reason",
+          "SUMMARY": "Jr. Recital: Kiley Korey, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180924T114732",
+          "CREATED": "20180709T135516",
+          "DTSTART": "20190414T160000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180924105319-833406@reason",
+          "SUMMARY": "Sr. Recital: Josh Vidervol/Parker Fretheim, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180924T111030",
+          "CREATED": "20180924T105319",
+          "DTSTART": "20190414T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180709135652-820559@reason",
+          "SUMMARY": "Jr. Recital: J.J. Schrick, guitar",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154214",
+          "CREATED": "20180709T135652",
+          "DTSTART": "20190414T203000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813031021-826457@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190414T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826577@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090327",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190415T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180814152834-826857@reason",
+          "SUMMARY": "Coe College (2x7)",
+          "LOCATION": "Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180814T153719",
+          "CREATED": "20180814T152834",
+          "DTSTART": "20190416T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180927140547-834282@reason",
+          "SUMMARY": "Coe College (1x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140621",
+          "CREATED": "20180927T140547",
+          "DTSTART": "20190416T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116163548-840436@reason",
+          "SUMMARY": "UW-La Crosse",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20181116T163613",
+          "CREATED": "20181116T163548",
+          "DTSTART": "20190416T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702105822-819982@reason",
+          "SUMMARY": "Jazz Orchestra Homecoming Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T143413",
+          "CREATED": "20180702T105822",
+          "DTSTART": "20190416T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034002-826578@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090346",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190417T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702105959-819984@reason",
+          "SUMMARY": "Philharmonia Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T143439",
+          "CREATED": "20180702T105959",
+          "DTSTART": "20190417T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20181005140144-835652@reason",
+          "SUMMARY": "School Performance: The Magic School Bus — Lost in the Solar System",
+          "DESCRIPTION": "When the planetarium is closed and the field trip is ruined, Ms. Frizzle saves the day—but then needs rescuing herself! The Magic School Bus blasts into outer space to explore the solar system in this musical adaptation.\\nDue to the generous support of donors and sponsors, all tickets are just $2 per child. Area schools have priority for school matinees; community members are welcome as space is available.\\nArts grants are now available.\\n ",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20181005T141210",
+          "CREATED": "20181005T140144",
+          "DTSTART": "20190418T100000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20181005021210-835663@reason",
+          "SUMMARY": "School Performance: The Magic School Bus — Lost in the Solar System",
+          "DESCRIPTION": "When the planetarium is closed and the field trip is ruined, Ms. Frizzle saves the day—but then needs rescuing herself! The Magic School Bus blasts into outer space to explore the solar system in this musical adaptation.\\nDue to the generous support of donors and sponsors, all tickets are just $2 per child. Area schools have priority for school matinees; community members are welcome as space is available.\\nArts grants are now available.\\n ",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20181005T141232",
+          "CREATED": "20181005T021210",
+          "DTSTART": "20190418T123000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180907152506-830919@reason",
+          "SUMMARY": "Augustana Invitational",
+          "LOCATION": "Augustana College - Rock Island, Ill.",
+          "LAST-MODIFIED": "20180907T152546",
+          "CREATED": "20180907T152506",
+          "DTSTART": "20190418T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20190103163541-845804@reason",
+          "SUMMARY": "Guest Lecture: Amy Speier, \"Fertility Holidays: Global Journeys of Family Formation\"",
+          "DESCRIPTION": "Amy Speier (U of Texas at Arlington) is a medical anthropologist specializing in reproductive health, globalization, and medical tourism. In August 2016, her book \"Fertility Holidays: IVF Tourism and the Reproduction of Whiteness\" was released by NYU Press. This research is based on multi-sited, multi-year ethnographic project with North Americans who travel to Czech Republic for assisted reproductive technologies. Speier traces North American fertility journeys to Czech Republic, examining the multiple motivations that compel them to travel halfway across the globe in their quest for parenthood. Speier's current research is an examination of couples from all over the world who travel to North America seeking fertility treatment.",
+          "LOCATION": "F.W. Olin Building, Room 102",
+          "LAST-MODIFIED": "20190103T163904",
+          "CREATED": "20190103T163541",
+          "DTSTART": "20190418T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814152906-826860@reason",
+          "SUMMARY": "Nebraska Wesleyan University (2x7)",
+          "LOCATION": "Lincoln, Neb.",
+          "LAST-MODIFIED": "20180814T153731",
+          "CREATED": "20180814T152906",
+          "DTSTART;VALUE=DATE": "20190419",
+          "DTEND;VALUE=DATE": "20190419"
+        },
+        {
+          "UID": "20181005151852-835744@reason",
+          "SUMMARY": "Easter Break",
+          "LAST-MODIFIED": "20181005T152116",
+          "CREATED": "20181005T151852",
+          "DTSTART;VALUE=DATE": "20190419",
+          "DTEND;VALUE=DATE": "20190419"
+        },
+        {
+          "UID": "20181116162005-840390@reason",
+          "SUMMARY": "UW-Oshkosh",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20181116T162028",
+          "CREATED": "20181116T162005",
+          "DTSTART": "20190419T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907134632-830846@reason",
+          "SUMMARY": "Meet of Champions",
+          "LOCATION": "Augustana College - Rock Island, Ill.",
+          "LAST-MODIFIED": "20180907T135030",
+          "CREATED": "20180907T134632",
+          "DTSTART": "20190419T110000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181116163617-840438@reason",
+          "SUMMARY": "Coe College",
+          "LOCATION": "Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20181116T163643",
+          "CREATED": "20181116T163617",
+          "DTSTART": "20190419T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180927140628-834284@reason",
+          "SUMMARY": "Nebraska Wesleyan University (1x9)",
+          "LOCATION": "Lincoln, Neb.",
+          "LAST-MODIFIED": "20180927T140706",
+          "CREATED": "20180927T140628",
+          "DTSTART": "20190419T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005032116-835748@reason",
+          "SUMMARY": "Easter Break",
+          "LAST-MODIFIED": "20181005T032116",
+          "CREATED": "20181005T032116",
+          "DTSTART;VALUE=DATE": "20190420",
+          "DTEND;VALUE=DATE": "20190420"
+        },
+        {
+          "UID": "20180927140710-834286@reason",
+          "SUMMARY": "Nebraska Wesleyan University (2x9)",
+          "LOCATION": "Lincoln, Neb.",
+          "LAST-MODIFIED": "20180927T140738",
+          "CREATED": "20180927T140710",
+          "DTSTART": "20190420T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005032116-835749@reason",
+          "SUMMARY": "Easter Break",
+          "LAST-MODIFIED": "20181005T032116",
+          "CREATED": "20181005T032116",
+          "DTSTART;VALUE=DATE": "20190421",
+          "DTEND;VALUE=DATE": "20190421"
+        },
+        {
+          "UID": "20181005032116-835750@reason",
+          "SUMMARY": "Easter Break",
+          "LAST-MODIFIED": "20181005T032116",
+          "CREATED": "20181005T032116",
+          "DTSTART;VALUE=DATE": "20190422",
+          "DTEND;VALUE=DATE": "20190422"
+        },
+        {
+          "UID": "20180814152959-826863@reason",
+          "SUMMARY": "UW-River Falls (2x7)",
+          "LOCATION": "River Falls, Wis.",
+          "LAST-MODIFIED": "20180814T153743",
+          "CREATED": "20180814T152959",
+          "DTSTART": "20190422T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180927140745-834288@reason",
+          "SUMMARY": "Coe College (2x9)",
+          "LOCATION": "Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180927T140813",
+          "CREATED": "20180927T140745",
+          "DTSTART": "20190423T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181004143516-835361@reason",
+          "SUMMARY": "Brass Ensembles Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T143638",
+          "CREATED": "20181004T143516",
+          "DTSTART": "20190423T193000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180813034002-826581@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090410",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190424T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180814153035-826866@reason",
+          "SUMMARY": "University of Dubuque (2x7)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180814T153756",
+          "CREATED": "20180814T153035",
+          "DTSTART": "20190424T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702110055-819986@reason",
+          "SUMMARY": "Collegium Concert",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20181004T145114",
+          "CREATED": "20180702T110055",
+          "DTSTART": "20190424T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20181130135236-842349@reason",
+          "SUMMARY": "Biology Colloquium:  Barbara Fuller, M.D. ’72, \"A Calling to Serve\"",
+          "LOCATION": "Valders Hall of Science, Room 206",
+          "LAST-MODIFIED": "20181130T135601",
+          "CREATED": "20181130T135236",
+          "DTSTART": "20190425T094000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702110223-819988@reason",
+          "SUMMARY": "Wind and Percussion with Varsity Band Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T145155",
+          "CREATED": "20180702T110223",
+          "DTSTART": "20190425T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180907134715-830848@reason",
+          "SUMMARY": "Drake Relays",
+          "LOCATION": "Drake University - Des Moines, Iowa",
+          "LAST-MODIFIED": "20180907T135018",
+          "CREATED": "20180907T134715",
+          "DTSTART;VALUE=DATE": "20190426",
+          "DTEND;VALUE=DATE": "20190426",
+          "RRULE": "FREQ=DAILY;UNTIL=20190427T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20180907140153-830892@reason",
+          "SUMMARY": "Drake Relays",
+          "LOCATION": "Drake University - Des Moines, Iowa",
+          "LAST-MODIFIED": "20180907T140226",
+          "CREATED": "20180907T140153",
+          "DTSTART;VALUE=DATE": "20190426",
+          "DTEND;VALUE=DATE": "20190426",
+          "RRULE": "FREQ=DAILY;UNTIL=20190427T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20181116162036-840392@reason",
+          "SUMMARY": "American Rivers Conference AQ Tournament",
+          "LOCATION": "Wartburg College - Waverly, Iowa",
+          "LAST-MODIFIED": "20181116T162126",
+          "CREATED": "20181116T162036",
+          "DTSTART;VALUE=DATE": "20190426",
+          "DTEND;VALUE=DATE": "20190426",
+          "RRULE": "FREQ=DAILY;UNTIL=20190427T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20180813034002-826582@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090429",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190426T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180823145607-828103@reason",
+          "SUMMARY": "Twin Cities Lunch Connection Luncheon",
+          "LOCATION": "Roseville Lutheran Church",
+          "URL": "https://www.luther.edu/alumni/events/lunch-connection/",
+          "LAST-MODIFIED": "20180912T110733",
+          "CREATED": "20180823T145607",
+          "DTSTART": "20190426T110000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180927140819-834290@reason",
+          "SUMMARY": "Buena Vista University (1x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140855",
+          "CREATED": "20180927T140819",
+          "DTSTART": "20190426T150000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702110339-819990@reason",
+          "SUMMARY": "Norsemen and Aurora Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T145224",
+          "CREATED": "20180702T110339",
+          "DTSTART": "20190426T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180907134758-830851@reason",
+          "SUMMARY": "St. Mary's University Open",
+          "LOCATION": "Winona, Minn.",
+          "LAST-MODIFIED": "20180907T134829",
+          "CREATED": "20180907T134758",
+          "DTSTART;VALUE=DATE": "20190427",
+          "DTEND;VALUE=DATE": "20190427"
+        },
+        {
+          "UID": "20180907140230-830895@reason",
+          "SUMMARY": "St. Mary's University Open",
+          "LOCATION": "St. Mary's University - Winona, Minn.",
+          "LAST-MODIFIED": "20180907T140312",
+          "CREATED": "20180907T140230",
+          "DTSTART;VALUE=DATE": "20190427",
+          "DTEND;VALUE=DATE": "20190427"
+        },
+        {
+          "UID": "20181116163648-840440@reason",
+          "SUMMARY": "Simpson College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20181116T163716",
+          "CREATED": "20181116T163648",
+          "DTSTART;VALUE=DATE": "20190427",
+          "DTEND;VALUE=DATE": "20190427"
+        },
+        {
+          "UID": "20181116163719-840442@reason",
+          "SUMMARY": "Central College",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20181116T163739",
+          "CREATED": "20181116T163719",
+          "DTSTART;VALUE=DATE": "20190427",
+          "DTEND;VALUE=DATE": "20190427"
+        },
+        {
+          "UID": "20180709132937-820541@reason",
+          "SUMMARY": "Jr. Recital: Marya Haugland/Kate Wyre, trumpet/saxophone",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154245",
+          "CREATED": "20180709T132937",
+          "DTSTART": "20190427T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180927140857-834292@reason",
+          "SUMMARY": "Buena Vista University (2x9)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180927T140937",
+          "CREATED": "20180927T140857",
+          "DTSTART": "20190427T120000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814153112-826869@reason",
+          "SUMMARY": "Central College (2x7)",
+          "LOCATION": "Pella, Iowa",
+          "LAST-MODIFIED": "20180814T153807",
+          "CREATED": "20180814T153112",
+          "DTSTART": "20190427T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709135804-820561@reason",
+          "SUMMARY": "Sr./Jr. Recital: Emma Hyatt/Ellis William Mertens, double bass/trumpet",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154309",
+          "CREATED": "20180709T135804",
+          "DTSTART": "20190427T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180709135944-820565@reason",
+          "SUMMARY": "Sr. Recital: Sarah Lodge, trumpet",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154319",
+          "CREATED": "20180709T135944",
+          "DTSTART": "20190427T160000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180911142457-831387@reason",
+          "SUMMARY": "Hemp Orchestra Prize Recital:  Michael Winkler",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T142929",
+          "CREATED": "20180911T142457",
+          "DTSTART": "20190427T190000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20181120093229-840856@reason",
+          "SUMMARY": "Nordic Choir with the Des Moines Symphony",
+          "DESCRIPTION": "From the Des Moines Symphony website: \"Iowa native and internationally-renowned singer Simon Estes has filled opera houses from New York City to Paris and beyond. Now, experience his powerful voice in person as Simon performs selections from Gershwin’s beloved Porgy & Bess with the Des Moines Symphony. This special concert also features Luther College’s celebrated Nordic Choir singing Bernstein’s choral masterpiece Chichester Psalms, but first, the breathtaking joy of Shostakovich’s brilliant, colorful Festive Overture.\"",
+          "LOCATION": "Des Moines Civic Center",
+          "URL": "https://dmsymphony.org/events/masterworks-6-simon-sings-porgy-bess/",
+          "LAST-MODIFIED": "20181120T095234",
+          "CREATED": "20181120T093229",
+          "DTSTART": "20190427T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813025357-826385@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150447",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190428T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709130003-820521@reason",
+          "SUMMARY": "Sr. Recital: Rachel Schwabenbauer, flute",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180924T102413",
+          "CREATED": "20180709T130003",
+          "DTSTART": "20190428T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180709135214-820553@reason",
+          "SUMMARY": "Sr. Recital: Mason Donnohue, bass trombone",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180924T101602",
+          "CREATED": "20180709T135214",
+          "DTSTART": "20190428T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20181116163743-840444@reason",
+          "SUMMARY": "Augustana (IL)",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20181116T163809",
+          "CREATED": "20181116T163743",
+          "DTSTART": "20190428T140000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181120094059-840860@reason",
+          "SUMMARY": "Nordic Choir with the Des Moines Symphony",
+          "DESCRIPTION": "From the Des Moines Symphony website: \"Iowa native and internationally-renowned singer Simon Estes has filled opera houses from New York City to Paris and beyond. Now, experience his powerful voice in person as Simon performs selections from Gershwin’s beloved Porgy & Bess with the Des Moines Symphony. This special concert also features Luther College’s celebrated Nordic Choir singing Bernstein’s choral masterpiece Chichester Psalms, but first, the breathtaking joy of Shostakovich’s brilliant, colorful Festive Overture.\"",
+          "LOCATION": "Des Moines Civic Center",
+          "URL": "https://dmsymphony.org/events/masterworks-6-simon-sings-porgy-bess/",
+          "LAST-MODIFIED": "20181120T095306",
+          "CREATED": "20181120T094059",
+          "DTSTART": "20190428T143000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180608101506-818019@reason",
+          "SUMMARY": "Phi Beta",
+          "LOCATION": "Jenson-Noble Hall of Music, Noble Recital Hall",
+          "LAST-MODIFIED": "20180608T101615",
+          "CREATED": "20180608T101506",
+          "DTSTART": "20190428T160000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702110442-819992@reason",
+          "SUMMARY": "Chamber Orchestra Concert",
+          "DESCRIPTION": "This event will be live streamed for viewers who are further than 30 miles (approximately) from Luther College.",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T142201",
+          "CREATED": "20180702T110442",
+          "DTSTART": "20190428T160000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813031021-826459@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190428T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005152146-835752@reason",
+          "SUMMARY": "Last day to withdraw from Senior Projects with a \"W\"",
+          "LAST-MODIFIED": "20181005T152255",
+          "CREATED": "20181005T152146",
+          "DTSTART;VALUE=DATE": "20190429",
+          "DTEND;VALUE=DATE": "20190429"
+        },
+        {
+          "UID": "20180813034002-826583@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090445",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190429T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702110646-819994@reason",
+          "SUMMARY": "Jazz Band Concert",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T145247",
+          "CREATED": "20180702T110646",
+          "DTSTART": "20190430T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034002-826584@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090502",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190501T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20181116082439-840283@reason",
+          "SUMMARY": "David J. Roslien Lecture: Professor James Hansen",
+          "DESCRIPTION": "James Hansen’s testimony before congress in 1988 brought the issue of climate change to the world’s attention. He has spent his career at NASA and Columbia University warning the international community about the perils of failing to act. Come hear him reflect on his life-long quest to move world leaders to action.",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20181116T082732",
+          "CREATED": "20181116T082439",
+          "DTSTART": "20190501T190000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702110948-819996@reason",
+          "SUMMARY": "Composition Recital",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154358",
+          "CREATED": "20180702T110948",
+          "DTSTART": "20190501T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20151112130633-659476@reason",
+          "SUMMARY": "Scholarship Recognition",
+          "LOCATION": "Nobel",
+          "LAST-MODIFIED": "20180612T111115",
+          "CREATED": "20151112T130633",
+          "DTSTART": "20190502T093000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180907134835-830853@reason",
+          "SUMMARY": "Wartburg Dual",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180907T134901",
+          "CREATED": "20180907T134835",
+          "DTSTART": "20190502T170000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180907140316-830897@reason",
+          "SUMMARY": "Wartburg Dual",
+          "LOCATION": "Home",
+          "LAST-MODIFIED": "20180907T140342",
+          "CREATED": "20180907T140316",
+          "DTSTART": "20190502T170000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814153147-826872@reason",
+          "SUMMARY": "American Rivers Conference Tournament",
+          "LOCATION": "At No. 1 Seed",
+          "LAST-MODIFIED": "20180814T153240",
+          "CREATED": "20180814T153147",
+          "DTSTART;VALUE=DATE": "20190503",
+          "DTEND;VALUE=DATE": "20190503",
+          "RRULE": "FREQ=DAILY;UNTIL=20190504T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20181116163815-840446@reason",
+          "SUMMARY": "America Rivers Conference AQ Tournament",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181116T163856",
+          "CREATED": "20181116T163815",
+          "DTSTART;VALUE=DATE": "20190503",
+          "DTEND;VALUE=DATE": "20190503",
+          "RRULE": "FREQ=DAILY;UNTIL=20190504T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20180813034002-826585@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090521",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190503T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180927140945-834294@reason",
+          "SUMMARY": "Simpson College (1x9)",
+          "LOCATION": "Indianola, Iowa",
+          "LAST-MODIFIED": "20180927T141020",
+          "CREATED": "20180927T140945",
+          "DTSTART": "20190503T180000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702111218-819998@reason",
+          "SUMMARY": "Luther Ringers Concert",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20181004T145317",
+          "CREATED": "20180702T111218",
+          "DTSTART": "20190503T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180709132417-820537@reason",
+          "SUMMARY": "Jr. Recital: John Bendt/Hunter Moore, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T142254",
+          "CREATED": "20180709T132417",
+          "DTSTART": "20190504T120000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180927141022-834296@reason",
+          "SUMMARY": "Simpson College (2x9)",
+          "LOCATION": "Indianola, Iowa",
+          "LAST-MODIFIED": "20180927T141054",
+          "CREATED": "20180927T141022",
+          "DTSTART": "20190504T130000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180709140458-820573@reason",
+          "SUMMARY": "Jr. Recital: Noah Manke",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154454",
+          "CREATED": "20180709T140458",
+          "DTSTART": "20190504T140000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180709140321-820571@reason",
+          "SUMMARY": "Jr. Recital: Monica Barron/Kailey Gering, voice",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154506",
+          "CREATED": "20180709T140321",
+          "DTSTART": "20190504T160000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180702111333-820000@reason",
+          "SUMMARY": "Distinction in Accompanying Finalist Recital",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154517",
+          "CREATED": "20180702T111333",
+          "DTSTART": "20190504T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813025357-826386@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150438",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190505T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813031021-826460@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190505T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826586@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090539",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190506T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180702112340-820008@reason",
+          "SUMMARY": "Guest Artist Recital: Lei Weng, piano",
+          "LOCATION": "Noble Recital Hall, Jenson-Noble Hall of Music",
+          "LAST-MODIFIED": "20180911T154744",
+          "CREATED": "20180702T112340",
+          "DTSTART": "20190507T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813034002-826587@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090607",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190508T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180907134905-830855@reason",
+          "SUMMARY": "American Rivers Conference Outdoor Championships",
+          "LOCATION": "Coe College - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180907T134957",
+          "CREATED": "20180907T134905",
+          "DTSTART;VALUE=DATE": "20190509",
+          "DTEND;VALUE=DATE": "20190509",
+          "RRULE": "FREQ=DAILY;UNTIL=20190511T000000;INTERVAL=2"
+        },
+        {
+          "UID": "20180907140346-830899@reason",
+          "SUMMARY": "American Rivers Conference Outdoor Championships",
+          "LOCATION": "Coe College - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180907T140421",
+          "CREATED": "20180907T140346",
+          "DTSTART;VALUE=DATE": "20190509",
+          "DTEND;VALUE=DATE": "20190509",
+          "RRULE": "FREQ=DAILY;UNTIL=20190511T000000;INTERVAL=2"
+        },
+        {
+          "UID": "20180927141058-834299@reason",
+          "SUMMARY": "American Rivers Conference Tournament",
+          "LOCATION": "Veterans Memorial Stadium - Cedar Rapids, Iowa",
+          "LAST-MODIFIED": "20180927T141200",
+          "CREATED": "20180927T141058",
+          "DTSTART;VALUE=DATE": "20190509",
+          "DTEND;VALUE=DATE": "20190509",
+          "RRULE": "FREQ=DAILY;UNTIL=20190512T000000;INTERVAL=3"
+        },
+        {
+          "UID": "20180816114730-827276@reason",
+          "SUMMARY": "Emeriti Colloquium: Jim Eckblad, \"A Boating History of the Mighty Mississippi\"",
+          "LOCATION": "Dahl Centennial Union, Mott Room",
+          "LAST-MODIFIED": "20180816T114851",
+          "CREATED": "20180816T114730",
+          "DTSTART": "20190509T150000",
+          "DURATION": "PT1H0M0S"
+        },
+        {
+          "UID": "20180522143905-816511@reason",
+          "SUMMARY": "Dance Performance: \"What Would Love Do?\"",
+          "DESCRIPTION": "Runs May 9-11",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180522T144348",
+          "CREATED": "20180522T143905",
+          "DTSTART": "20190509T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180814153247-826876@reason",
+          "SUMMARY": "NCAA III Regional",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T064258",
+          "CREATED": "20180814T153247",
+          "DTSTART;VALUE=DATE": "20190510",
+          "DTEND;VALUE=DATE": "20190510",
+          "RRULE": "FREQ=DAILY;UNTIL=20190512T000000;INTERVAL=2"
+        },
+        {
+          "UID": "20180522144454-816520@reason",
+          "SUMMARY": "Dance Performance: \"What Would Love Do?\"",
+          "DESCRIPTION": "Runs May 9-11.",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180522T144543",
+          "CREATED": "20180522T144454",
+          "DTSTART": "20190510T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702112829-820010@reason",
+          "SUMMARY": "Spring Opera Performance",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180702T112953",
+          "CREATED": "20180702T112829",
+          "DTSTART": "20190510T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180731103826-825205@reason",
+          "SUMMARY": "Legacy Trust Scholarship Recognition Luncheon",
+          "DESCRIPTION": "Annual event to recognize Legacy Trust Scholarship donors and student scholarship recipients",
+          "LOCATION": "Peace",
+          "LAST-MODIFIED": "20180731T104350",
+          "CREATED": "20180731T103826",
+          "DTSTART": "20190511T120000",
+          "DURATION": "PT1H30M0S"
+        },
+        {
+          "UID": "20180522144546-816522@reason",
+          "SUMMARY": "Dance Performance: \"What Would Love Do?\"",
+          "DESCRIPTION": "Runs May 9-11.",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180522T144651",
+          "CREATED": "20180522T144546",
+          "DTSTART": "20190511T133000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180731104405-825207@reason",
+          "SUMMARY": "President's Council Recognition Dinner",
+          "DESCRIPTION": "Annual event to recognize President's Council donors and new life members of President's Council.",
+          "LOCATION": "Peace",
+          "LAST-MODIFIED": "20180731T104723",
+          "CREATED": "20180731T104405",
+          "DTSTART": "20190511T170000",
+          "DURATION": "PT1H45M0S"
+        },
+        {
+          "UID": "20180522144656-816526@reason",
+          "SUMMARY": "Dance Performance: \"What Would Love Do?\"",
+          "DESCRIPTION": "Runs May 9-11.",
+          "LOCATION": "Center for the Arts, Jewel Theatre",
+          "LAST-MODIFIED": "20180522T144735",
+          "CREATED": "20180522T144656",
+          "DTSTART": "20190511T193000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180702113007-820012@reason",
+          "SUMMARY": "Spring Opera Performance",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180702T113045",
+          "CREATED": "20180702T113007",
+          "DTSTART": "20190511T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20180813025357-826387@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150429",
+          "CREATED": "20180813T025357",
+          "DTSTART": "20190512T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813031021-826461@reason",
+          "SUMMARY": "Focus",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T031021",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190512T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813034002-826589@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090622",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190513T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180813034002-826590@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090642",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190515T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180814153338-826880@reason",
+          "SUMMARY": "NCAA III Super Regional",
+          "LOCATION": "TBA",
+          "LAST-MODIFIED": "20181031T064310",
+          "CREATED": "20180814T153338",
+          "DTSTART;VALUE=DATE": "20190517",
+          "DTEND;VALUE=DATE": "20190517",
+          "RRULE": "FREQ=DAILY;UNTIL=20190518T000000;INTERVAL=1"
+        },
+        {
+          "UID": "20181005153518-835756@reason",
+          "SUMMARY": "Last day of classes",
+          "LAST-MODIFIED": "20181005T153553",
+          "CREATED": "20181005T153518",
+          "DTSTART;VALUE=DATE": "20190517",
+          "DTEND;VALUE=DATE": "20190517"
+        },
+        {
+          "UID": "20180813034002-826591@reason",
+          "SUMMARY": "Chapel",
+          "LOCATION": "Center for Faith and Life, Main Hall",
+          "LAST-MODIFIED": "20180820T090700",
+          "CREATED": "20180813T034002",
+          "DTSTART": "20190517T103000",
+          "DURATION": "PT0H20M0S"
+        },
+        {
+          "UID": "20180813025935-826391@reason",
+          "SUMMARY": "Sunday Morning Worship",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20180813T150419",
+          "CREATED": "20180813T025935",
+          "DTSTART": "20190519T100000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20180813031021-826462@reason",
+          "SUMMARY": "Focus",
+          "DESCRIPTION": "Rain location: Center for Faith and Life, Main Hall",
+          "LOCATION": "Bentdahl Commons",
+          "LAST-MODIFIED": "20180813T152322",
+          "CREATED": "20180813T031021",
+          "DTSTART": "20190519T210000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20181005153556-835758@reason",
+          "SUMMARY": "Final Exams",
+          "LAST-MODIFIED": "20181005T153657",
+          "CREATED": "20181005T153556",
+          "DTSTART;VALUE=DATE": "20190520",
+          "DTEND;VALUE=DATE": "20190520"
+        },
+        {
+          "UID": "20180814153434-826884@reason",
+          "SUMMARY": "NCAA III National Championhips",
+          "LOCATION": "Tyler, Texas",
+          "LAST-MODIFIED": "20180814T153521",
+          "CREATED": "20180814T153434",
+          "DTSTART;VALUE=DATE": "20190521",
+          "DTEND;VALUE=DATE": "20190521",
+          "RRULE": "FREQ=DAILY;UNTIL=20190528T000000;INTERVAL=7"
+        },
+        {
+          "UID": "20181005033657-835762@reason",
+          "SUMMARY": "Final Exams",
+          "LAST-MODIFIED": "20181005T033657",
+          "CREATED": "20181005T033657",
+          "DTSTART;VALUE=DATE": "20190521",
+          "DTEND;VALUE=DATE": "20190521"
+        },
+        {
+          "UID": "20181005033657-835763@reason",
+          "SUMMARY": "Final Exams",
+          "LAST-MODIFIED": "20181005T033657",
+          "CREATED": "20181005T033657",
+          "DTSTART;VALUE=DATE": "20190522",
+          "DTEND;VALUE=DATE": "20190522"
+        },
+        {
+          "UID": "20180907135228-830866@reason",
+          "SUMMARY": "NCAA III Outdoor Championships",
+          "LOCATION": "Spire Institute - Geneva, Ohio",
+          "LAST-MODIFIED": "20180907T135348",
+          "CREATED": "20180907T135228",
+          "DTSTART;VALUE=DATE": "20190523",
+          "DTEND;VALUE=DATE": "20190523",
+          "RRULE": "FREQ=DAILY;UNTIL=20190525T000000;INTERVAL=2"
+        },
+        {
+          "UID": "20180907140425-830901@reason",
+          "SUMMARY": "NCAA III Outdoor Championships",
+          "LOCATION": "Spire Institute - Geneva, Ohio",
+          "LAST-MODIFIED": "20180907T140501",
+          "CREATED": "20180907T140425",
+          "DTSTART;VALUE=DATE": "20190523",
+          "DTEND;VALUE=DATE": "20190523",
+          "RRULE": "FREQ=DAILY;UNTIL=20190525T000000;INTERVAL=2"
+        },
+        {
+          "UID": "20181005033657-835764@reason",
+          "SUMMARY": "Final Exams",
+          "LAST-MODIFIED": "20181005T033657",
+          "CREATED": "20181005T033657",
+          "DTSTART;VALUE=DATE": "20190523",
+          "DTEND;VALUE=DATE": "20190523"
+        },
+        {
+          "UID": "20180702113055-820014@reason",
+          "SUMMARY": "Friday Showcase Concert with Symphony Orchestra and Nordic Choir",
+          "DESCRIPTION": "This event will be live streamed for viewers who are further than 30 miles (approximately) from Luther College.",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T142235",
+          "CREATED": "20180702T113055",
+          "DTSTART": "20190524T193000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20110830124910-351032@reason",
+          "SUMMARY": "Senior Recognition Open House",
+          "DESCRIPTION": "The Luther College\\nDepartment of Education\\ncordially invites you and your family\\nto join us in celebrating your graduation.\\n \\nSaturday, May 25, 2019\\n10:00 am—12:30 pm\\n \\nCenter For the Arts, Atrium\\nLuther College",
+          "LOCATION": "CFA - Atrium",
+          "LAST-MODIFIED": "20180612T110237",
+          "CREATED": "20110830T124910",
+          "DTSTART": "20190525T100000",
+          "DURATION": "PT2H30M0S"
+        },
+        {
+          "UID": "20180702113234-820016@reason",
+          "SUMMARY": "Saturday Showcase Concert with Jazz Orchestra and Concert Band",
+          "LOCATION": "Center for Faith and Life",
+          "LAST-MODIFIED": "20181004T145402",
+          "CREATED": "20180702T113234",
+          "DTSTART": "20190525T133000",
+          "DURATION": "PT2H0M0S"
+        },
+        {
+          "UID": "20170921160439-777989@reason",
+          "SUMMARY": "Commencement Ceremony",
+          "DESCRIPTION": "The ceremony is a ticketed event. Each graduate is allowed up to six tickets. On-campus graduates may pick up their tickets at the Grad Finale in March, at the Dahl Centennial Union lobby. Mid-semester graduates, student teachers, Chicago Social Work Practicum students, and Rochester nursing students will receive their tickets in the mail if they have provided the college with an off-campus address for their program. Tickets for students studying abroad, or for those students without a separate off-campus address listed will be sent to their parents. If students are married, have a non-traditional family situation, or would like their names placed on a waiting list for additional tickets, contact the ticket office.",
+          "LOCATION": "Carlson Stadium",
+          "LAST-MODIFIED": "20181119T082916",
+          "CREATED": "20170921T160439",
+          "DTSTART": "20190526T090000",
+          "DURATION": "PT0H0M0S"
+        },
+        {
+          "UID": "20171220104218-794669@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105746",
+          "CREATED": "20171220T104218",
+          "DTSTART": "20191004T080000",
+          "DURATION": "PT12H0M0S"
+        },
+        {
+          "UID": "20171220104438-794671@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105801",
+          "CREATED": "20171220T104438",
+          "DTSTART": "20191005T080000",
+          "DURATION": "PT12H0M0S"
+        },
+        {
+          "UID": "20171220104842-794673@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105814",
+          "CREATED": "20171220T104842",
+          "DTSTART": "20191006T080000",
+          "DURATION": "PT6H0M0S"
+        },
+        {
+          "UID": "20181001103838-834668@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Dublin",
+          "LAST-MODIFIED": "20181001T104024",
+          "CREATED": "20181001T103838",
+          "DTSTART;VALUE=DATE": "20191008",
+          "DTEND;VALUE=DATE": "20191008"
+        },
+        {
+          "UID": "20181001104045-834671@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Dublin",
+          "LAST-MODIFIED": "20181001T104305",
+          "CREATED": "20181001T104045",
+          "DTSTART;VALUE=DATE": "20191009",
+          "DTEND;VALUE=DATE": "20191009"
+        },
+        {
+          "UID": "20181001104153-834674@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Dublin",
+          "LAST-MODIFIED": "20181001T104226",
+          "CREATED": "20181001T104153",
+          "DTSTART;VALUE=DATE": "20191010",
+          "DTEND;VALUE=DATE": "20191010"
+        },
+        {
+          "UID": "20181001104434-834679@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Dublin, Monasterboice, Belfast",
+          "LAST-MODIFIED": "20181001T104522",
+          "CREATED": "20181001T104434",
+          "DTSTART;VALUE=DATE": "20191011",
+          "DTEND;VALUE=DATE": "20191011"
+        },
+        {
+          "UID": "20181001104530-834684@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Belfast",
+          "LAST-MODIFIED": "20181001T104637",
+          "CREATED": "20181001T104530",
+          "DTSTART;VALUE=DATE": "20191012",
+          "DTEND;VALUE=DATE": "20191012"
+        },
+        {
+          "UID": "20181001104654-834687@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Belfast, Stormont",
+          "LAST-MODIFIED": "20181001T104731",
+          "CREATED": "20181001T104654",
+          "DTSTART;VALUE=DATE": "20191013",
+          "DTEND;VALUE=DATE": "20191013"
+        },
+        {
+          "UID": "20181001104742-834689@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Ballycastle, Bushmills, (London)derry",
+          "LAST-MODIFIED": "20181001T104840",
+          "CREATED": "20181001T104742",
+          "DTSTART;VALUE=DATE": "20191014",
+          "DTEND;VALUE=DATE": "20191014"
+        },
+        {
+          "UID": "20181001104913-834691@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "(London)derry",
+          "LAST-MODIFIED": "20181001T104947",
+          "CREATED": "20181001T104913",
+          "DTSTART;VALUE=DATE": "20191015",
+          "DTEND;VALUE=DATE": "20191015"
+        },
+        {
+          "UID": "20181001105011-834693@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Omagh, Silgo, Castlebar, Galway",
+          "LAST-MODIFIED": "20181001T105106",
+          "CREATED": "20181001T105011",
+          "DTSTART;VALUE=DATE": "20191016",
+          "DTEND;VALUE=DATE": "20191016"
+        },
+        {
+          "UID": "20181001105118-834695@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Galway",
+          "LAST-MODIFIED": "20181001T105144",
+          "CREATED": "20181001T105118",
+          "DTSTART;VALUE=DATE": "20191017",
+          "DTEND;VALUE=DATE": "20191017"
+        },
+        {
+          "UID": "20181001105150-834697@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Spiddal, Clifden, Galway",
+          "LAST-MODIFIED": "20181001T105237",
+          "CREATED": "20181001T105150",
+          "DTSTART;VALUE=DATE": "20191018",
+          "DTEND;VALUE=DATE": "20191018"
+        },
+        {
+          "UID": "20181001105249-834699@reason",
+          "SUMMARY": "Ireland Revealed Tour for Alumni, Parents, and Friends",
+          "LOCATION": "Galway",
+          "LAST-MODIFIED": "20181001T105329",
+          "CREATED": "20181001T105249",
+          "DTSTART;VALUE=DATE": "20191019",
+          "DTEND;VALUE=DATE": "20191019"
+        },
+        {
+          "UID": "20171220105010-794678@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105054",
+          "CREATED": "20171220T105010",
+          "DTSTART": "20201009T080000",
+          "DURATION": "PT12H0M0S"
+        },
+        {
+          "UID": "20171220105056-794680@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105829",
+          "CREATED": "20171220T105056",
+          "DTSTART": "20201010T080000",
+          "DURATION": "PT12H0M0S"
+        },
+        {
+          "UID": "20171220105137-794682@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105844",
+          "CREATED": "20171220T105137",
+          "DTSTART": "20201011T080000",
+          "DURATION": "PT6H0M0S"
+        },
+        {
+          "UID": "20171220105240-794684@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105943",
+          "CREATED": "20171220T105240",
+          "DTSTART": "20211001T080000",
+          "DURATION": "PT12H0M0S"
+        },
+        {
+          "UID": "20171220105322-794686@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T105954",
+          "CREATED": "20171220T105322",
+          "DTSTART": "20211002T080000",
+          "DURATION": "PT12H0M0S"
+        },
+        {
+          "UID": "20171220105403-794688@reason",
+          "SUMMARY": "Homecoming",
+          "LOCATION": "Luther College",
+          "URL": "https://www.luther.edu/homecoming/",
+          "LAST-MODIFIED": "20171220T110015",
+          "CREATED": "20171220T105403",
+          "DTSTART": "20211003T080000",
+          "DURATION": "PT6H0M0S"
+        }
+      ]
+    }
+  ]
+}
