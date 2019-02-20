@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+        <div class='bg mb-5'>
+            <div class="text-center">
+                <h1 class='pt-5'><b>Add Assignment</b></h1>
+            </div>
+            <div class="text-center">
+                    <h3><b>Adding Assignment for <span style="text-decoration:underline"r>{{course_num}}</span></b></b></h3>
+            </div>
+        </div>
+    
+        <form class='text-center' action='/add' method='POST'>
+            <div class="form-group form-control-lg">
+                <label class="mr-2" for="assignment">Assignment Name</label>
+                <input type="text" id="assignment" name="assignment">
+            </div>
+            <input type="hidden" name="courseNum" value='{{course_num}}' />
+            <button type="submit" class="btn btn-primary">Add</button>
+        </form>
+        
+        
+        
+{% endblock %}

@@ -1,0 +1,26 @@
+.bg {
+    /* The image used */
+    background-image: url("../images/background-index.jpg");
+
+    /* Full height */
+    height: 20%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content {
+    min-height: calc(100vh - 70px);
+    margin-bottom: 20px;
+
+}
+
+footer {
+    float: left;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}

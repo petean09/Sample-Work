@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<div class="bg">
+    <div class="text-center">
+        <h1><b>Grade Calculator</b></h1>
+    </div>
+
+    <div class="align-middle">
+        <form id="planner-list" style="width: 600; background-color: white;" class="border border-dark mx-auto form-inline p-3" action="/" method="POST">
+            <div class="form-group mb-2">
+                    <label for="class"><b>Select a class</b></label>
+            </div>
+            <div class="form-group mx-sm-3 mb-2">
+                    <select id="class" name="class" class="custom-select">
+                        {% for o in options %}
+                        <option value="{{o[0]}}">{{o[1]}}</option>
+                        {% endfor %}
+                    </select>
+            </div> 
+            <button type="submit" class="btn btn-primary">Search</button>
+        </form>
+    </div>
+</div>
+
+{% block results %}
+
+{% endblock %}
+
+{% endblock %}
+
