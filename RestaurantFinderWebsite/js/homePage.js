@@ -33,7 +33,7 @@ function clickedOn(){
     let cityName = document.querySelector('#locationInput').value;
     if (validateInput(cityName)){
         window.localStorage.setItem('cityName', JSON.stringify(cityName));
-        window.location.href = "/static/results.html";
+        window.location.href = "results.html";
     }else{
         let alert = document.getElementById('alert');
         alert.innerHTML="";
